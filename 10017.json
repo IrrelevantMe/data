@@ -13,22 +13,34 @@
 				"faqs": "FAQs"
 			},
 			"aboutBlocks": [{
-					"Nationalities": "For All"
+					"aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+					"aboutBlockValue": "For All",
+					"aboutBlockKey": "Nationalities"
 				},
 				{
-					"Starting Price": "AED 3,400,000"
+					"aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+					"aboutBlockValue": "AED 3,400,000",
+					"aboutBlockKey": "Starting Price"
 				},
 				{
-					"Starting Area": "3,272 Sqft"
+					"aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+					"aboutBlockValue": "3,272 Sqft",
+					"aboutBlockKey": "Starting Area"
 				},
 				{
-					"Downpayment": "5 %"
+					"aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+					"aboutBlockValue": "5 %",
+					"aboutBlockKey": "Downpayment"
 				},
 				{
-					"Handover": "Oct 2026"
+					"aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+					"aboutBlockValue": "Oct 2026",
+					"aboutBlockKey": "Handover"
 				},
 				{
-					"Location": "Al Shamkha"
+					"aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+					"aboutBlockValue": "Al Shamkha",
+					"aboutBlockKey": "Location"
 				}
 			],
 			"about": [{
