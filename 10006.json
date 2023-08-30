@@ -54,19 +54,24 @@
 				}
 			],
 			"faqs": [{
-					"What is the total area (sqm) ofthe master plan?": "Approximately 2.4 Million sqm."
+					"ques": "What is the total area (sqm) ofthe master plan?",
+					"ans": "Approximately 2.4 Million sqm."
 				},
 				{
-					"Are the units furnished?": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+					"ques": "Are the units furnished?",
+					"ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
 				},
 				{
-					"What would be the service charges and what is included?": "SC is estimated around AED 22/ per sqm."
+					"ques": "What would be the service charges and what is included?",
+					"ans": "SC is estimated around AED 22/ per sqm."
 				},
 				{
-					"How would the air-conditioning work? Is it centralized?": "Units will have DX Split AC."
+					"ques": "How would the air-conditioning work? Is it centralized?",
+					"ans": "Units will have DX Split AC."
 				},
 				{
-					"Can I choose the type of finishing of my unit?": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+					"ques": "Can I choose the type of finishing of my unit?",
+					"ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
 				}
 			],
 			"amenities": [{
