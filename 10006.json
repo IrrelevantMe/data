@@ -7,11 +7,14 @@
     "textContent": {
       "tagLine": "A sustainable home made for today by the creators of a better tomorrow",
       "propertyLabel": "The Sustainable City",
+      "alternateHeading":
+      {
+        "about" : "ABOUT",
+        "amenities" : "Feature & Amenities",
+        "faqs" : "FAQs"
+      },
       "aboutBlocks":
       [
-        {
-          "alternateHeading": ""
-        },
         {
           "Nationalities" : "For All"
         },
@@ -57,9 +60,6 @@
       "faqs":
       [
         {
-          "alternateHeading": "FAQs"
-        },
-        {
           "What is the total area (sqm) ofthe master plan?" : "Approximately 2.4 Million sqm."
         },
         {
@@ -78,25 +78,28 @@
       "amenities":
       [
         {
-          "alternateHeading": "Feature & Amenities"
+          "amenityLabel": "Beach Access",
+          "amenityIcon" : "fa-solid fa-umbrella-beach fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-umbrella-beach" : "Beach Access"
+          "amenityLabel": "Gymnasium",
+          "amenityIcon" : "fa-solid fa-dumbbell fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-dumbbell" : "Gymnasium"
+          "amenityLabel": "Infinity Pool",
+          "amenityIcon" : "fa-solid fa-water-ladder fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-water-ladder" : "Infinity Pool"
+          "amenityLabel": "Restaurants",
+          "amenityIcon" : "fa-solid fa-utensils fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-utensils" : "Restaurants"
+          "amenityLabel": "Retail Outlets",
+          "amenityIcon" : "fa-solid fa-cart-shopping fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-cart-shopping" :  "Retail Outlets"
-        },
-        {
-          "fa-solid fa-volleyball" : "Kids Play Area"
+          "amenityLabel": "Kids Play Area",
+          "amenityIcon" : "fa-solid fa-volleyball fa-2xl me-3 amenities"
         }
       ]
     },
