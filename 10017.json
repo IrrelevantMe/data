@@ -7,11 +7,14 @@
     "textContent": {
       "tagLine": "4-6 Bedroom Villas in Al-Shamkha, Abu Dhabi",
       "propertyLabel": "Fay Al Reeman II",
+      "alternateHeading":
+      {
+        "about" : "ABOUT",
+        "amenities" : "COMMUNITY FACILITIES",
+        "faqs" : "FAQs"
+      },
       "aboutBlocks":
       [
-        {
-          "alternateHeading": ""
-        },
         {
           "Nationalities" : "For All"
         },
@@ -32,9 +35,6 @@
         }
       ],
       "about": [
-        {
-          "alternateHeading": "About"
-        },
         {
           "para": "An environmentally friendly and premium development in one of the communities that is expanding and growing, which guarantees end users a better return on investment and a wonderful lifestyle. The neighborhood offers its residents a high standard of living by providing a variety of facilities, services, and conveniences within their reach, in addition to providing a picture-perfect setting."
         },
@@ -57,9 +57,6 @@
       "faqs":
       [
         {
-          "alternateHeading": "FAQs"
-        },
-        {
           "What is the total area (sqm) ofthe master plan?" : "Approximately 2.4 Million sqm."
         },
         {
@@ -78,25 +75,28 @@
       "amenities":
       [
         {
-          "alternateHeading": "COMMUNITY FACILITIES"
+          "amenityLabel": "MOSQUE",
+          "amenityIcon" : "fa-solid fa-mosque fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-mosque" : "MOSQUE"
+          "amenityLabel": "SCHOOL",
+          "amenityIcon" : "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-graduation-cap" : "SCHOOL"
+          "amenityLabel": "COMMUNITY RETAIL",
+          "amenityIcon" : "fa-solid fa-cart-plus fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-cart-plus" : "COMMUNITY RETAIL"
+          "amenityLabel": "KIDS PLAY AREA",
+          "amenityIcon" : "fa-solid fa-volleyball fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-volleyball" : "KIDS PLAY AREA"
+          "amenityLabel": "OPEN GREEN SPACES",
+          "amenityIcon" : "fa-solid fa-tree fa-2xl me-3 amenities"
         },
         {
-          "fa-solid fa-tree" :  "OPEN GREEN SPACES"
-        },
-        {
-          "fa-solid fa-person-biking" : "PEDESTRIAN AND CYCLE NETWORK"
+          "amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+          "amenityIcon" : "fa-solid fa-person-biking fa-2xl me-3 amenities"
         }
       ]
     },
