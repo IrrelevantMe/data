@@ -78,29 +78,29 @@
       "amenities":
       [
         {
-          "amenityLabel": "Beach Access",
-          "amenityIcon" : "fa-solid fa-umbrella-beach fa-2xl me-3 amenities"
-        },
-        {
-          "amenityLabel": "Gymnasium",
-          "amenityIcon" : "fa-solid fa-dumbbell fa-2xl me-3 amenities"
-        },
-        {
-          "amenityLabel": "Infinity Pool",
-          "amenityIcon" : "fa-solid fa-water-ladder fa-2xl me-3 amenities"
-        },
-        {
-          "amenityLabel": "Restaurants",
-          "amenityIcon" : "fa-solid fa-utensils fa-2xl me-3 amenities"
-        },
-        {
-          "amenityLabel": "Retail Outlets",
-          "amenityIcon" : "fa-solid fa-cart-shopping fa-2xl me-3 amenities"
-        },
-        {
-          "amenityLabel": "Kids Play Area",
-          "amenityIcon" : "fa-solid fa-volleyball fa-2xl me-3 amenities"
-        }
+    "amenityLabel": "BEACH ACCESS",
+    "amenityIcon": "fa-solid fa-umbrella-beach fa-2xl me-3 amenities"
+  },
+  {
+    "amenityLabel": "GYMNASIUM",
+    "amenityIcon": "fa-solid fa-dumbbell fa-2xl me-3 amenities"
+  },
+  {
+    "amenityLabel": "INFINITY POOL",
+    "amenityIcon": "fa-solid fa-water-ladder fa-2xl me-3 amenities"
+  },
+  {
+    "amenityLabel": "RESTAURANTS",
+    "amenityIcon": "fa-solid fa-utensils fa-2xl me-3 amenities"
+  },
+  {
+    "amenityLabel": "RETAIL OUTLETS",
+    "amenityIcon": "fa-solid fa-cart-shopping fa-2xl me-3 amenities"
+  },
+  {
+    "amenityLabel": "KIDS PLAY AREA",
+    "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+  }
       ]
     },
     "galleryContent": {
