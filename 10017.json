@@ -1,0 +1,139 @@
+{
+  "propertyId": 10017,
+  "propertyName": "Fay Al Reeman II",
+  "licenseNumber": "202202221143",
+  "projectNumber": "PRJ-2023-01-Something",
+  "content": {
+    "textContent": {
+      "tagLine": "4-6 Bedroom Villas in Al-Shamkha, Abu Dhabi",
+      "propertyLabel": "Fay Al Reeman II",
+      "aboutBlocks":
+      [
+        {
+          "alternateHeading": ""
+        },
+        {
+          "Nationalities" : "For All"
+        },
+        {
+          "Starting Price" : "AED 3,400,000"
+        },
+        {
+          "Starting Area" : "3,272 Sqft"
+        },
+        {
+          "Downpayment" : "5 %"
+        },
+        {
+          "Handover" :  "Oct 2026"
+        },
+        {
+          "Location" : "Al Shamkha"
+        }
+      ],
+      "about": [
+        {
+          "alternateHeading": "About"
+        },
+        {
+          "para": "An environmentally friendly and premium development in one of the communities that is expanding and growing, which guarantees end users a better return on investment and a wonderful lifestyle. The neighborhood offers its residents a high standard of living by providing a variety of facilities, services, and conveniences within their reach, in addition to providing a picture-perfect setting."
+        },
+        {
+          "para": "In line with Aldar Properties sustainability targets, the buildings in Reeman Living will have a sustainable and eco-friendly design, such as green building technologies and efficient fixtures to save water energy."
+        },
+        {
+          "para": "The premium residents who want to live a life of possibility, one in which they are never without joy and positive energy may consider purchasing one of these homes with a bespoke design. It is all of your dreams that have come true and delivered you this amazing project, in which you will continue to have a lot of enjoyment and fun. You will have a wonderful life in this amazing community, which features gorgeous, verdant surroundings and exclusive amenities."
+        },
+        {
+          "para": "Feel as though your wildest dreams are coming true within the community, which features great amenities and brilliant sports facilities that are tailored to meet your needs in a variety of different ways. Security and upkeep of the highest caliber, allowing you to live worry-free with your loved ones and immerse yourself in the ecstasy of these natural surroundings without leaving the comfort of your own house."
+        },
+        {
+          "para": "Occupants of Reeman Living will be able to take advantage of the following amenities:"
+        },
+        {
+          "list": ["3 to 6 bedroom villas with artistic designs", "Premium lifestyle with exclusive luxury and elegance", "Close to many hotspots and landmarks", "Awesome views at the comfort of your home", "Minutes away from attractions like Ferrari World"]
+        }
+      ],
+      "faqs":
+      [
+        {
+          "alternateHeading": "FAQs"
+        },
+        {
+          "What is the total area (sqm) ofthe master plan?" : "Approximately 2.4 Million sqm."
+        },
+        {
+          "Are the units furnished?" : "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+        },
+        {
+          "What would be the service charges and what is included?" : "SC is estimated around AED 22/ per sqm."
+        },
+        {
+          "How would the air-conditioning work? Is it centralized?" : "Units will have DX Split AC."
+        },
+        {
+          "Can I choose the type of finishing of my unit?" :  "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+        }
+      ],
+      "amenities":
+      [
+        {
+          "alternateHeading": "COMMUNITY FACILITIES"
+        },
+        {
+          "fa-solid fa-mosque" : "MOSQUE"
+        },
+        {
+          "fa-solid fa-graduation-cap" : "SCHOOL"
+        },
+        {
+          "fa-solid fa-cart-plus" : "COMMUNITY RETAIL"
+        },
+        {
+          "fa-solid fa-volleyball" : "KIDS PLAY AREA"
+        },
+        {
+          "fa-solid fa-tree" :  "OPEN GREEN SPACES"
+        },
+        {
+          "fa-solid fa-person-biking" : "PEDESTRIAN AND CYCLE NETWORK"
+        }
+      ]
+    },
+    "galleryContent": {
+      "carouselImages": [
+        "/assets/images/10001/exterior-1.webp",
+        "/assets/images/10001/exterior-2.webp",
+        "/assets/images/10001/exterior-3.webp",
+        "/assets/images/10001/interior-1.webp",
+        "/assets/images/10001/about.webp"
+      ],
+      "aboutImage": "/assets/images/10001/about.webp"
+    },
+    "mapContent": {
+      "latitude": 123.456,
+      "longitude": -45.678,
+      "markerLabel": "Sample Location"
+    }
+  },
+  "pricing": {
+    "startingPrice": "$250,000",
+    "pricePerSqFt": "$200",
+    "startingAreaFrom": "800 sq ft",
+    "paymentPlan": {
+      "planName": "Standard Plan",
+      "installments": [
+        {
+          "name": "Down Payment",
+          "amount": "$50,000",
+          "dueDate": "2023-09-01"
+        },
+        {
+          "name": "1st Installment",
+          "amount": "$50,000",
+          "dueDate": "2023-10-01"
+        }
+      ]
+    }
+  }
+}
