@@ -84,7 +84,149 @@
           }
         ]
       },
-      "pricing": {},
+      "pricing": {
+        "alternateHeading": "PAYMENT PLAN",
+        "paymentPlan": [
+          {
+            "paymentPlanId":"plan1",
+            "paymentPlanName": "40/60",
+            "checked" : true,
+            "installments": [
+              {
+                "amount": "5 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Construction Start “Infra”",
+                "dueDate": "31-Aug-23"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Piling works completion - Residential",
+                "dueDate": "30-Apr-24"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Villa super structure completion 50%",
+                "dueDate": "30-Nov-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Villa super structure completion 100%",
+                "dueDate": "30-Jun-25 "
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Façade substantial completion",
+                "dueDate": "28-Feb-26"
+              },
+              {
+                "amount": "60 %",
+                "milestone": "On Handover",
+                "dueDate": "31-Oct-26"
+              }
+            ]
+          },
+          {
+            "paymentPlanId":"plan2",
+            "paymentPlanName": "50/50 (2% Rebate)",
+            "checked" : false,
+            "installments": [
+              {
+                "amount": "5 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Construction Start “Infra”",
+                "dueDate": "31-Aug-23"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Piling works completion - Residential",
+                "dueDate": "30-Apr-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Villa super structure completion 50%",
+                "dueDate": "30-Nov-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Villa super structure completion 100%",
+                "dueDate": "30-Jun-25 "
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Façade substantial completion",
+                "dueDate": "28-Feb-26"
+              },
+              {
+                "amount": "50 %",
+                "milestone": "On Handover",
+                "dueDate": "31-Oct-26"
+              }
+            ]
+          },
+          {
+            "paymentPlanId":"plan3",
+            "paymentPlanName": "60/40 (3% Rebate)",
+            "checked" : false,
+            "installments": [
+              {
+                "amount": "10 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Construction Start “Infra”",
+                "dueDate": "31-Aug-23"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Piling works completion - Residential",
+                "dueDate": "30-Apr-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Villa super structure completion 50%",
+                "dueDate": "30-Nov-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Villa super structure completion 100%",
+                "dueDate": "30-Jun-25 "
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Façade substantial completion",
+                "dueDate": "28-Feb-26"
+              },
+              {
+                "amount": "40 %",
+                "milestone": "On Handover",
+                "dueDate": "31-Oct-26"
+              }
+            ]
+          },
+          {
+            "paymentPlanId":"plan4",
+            "paymentPlanName": "100% (5% Discount)",
+            "checked" : false,
+            "installments": [
+              {
+                "amount": "100 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              }
+            ]
+          }
+        ]
+      },
       "faqs": {
         "alternateHeading": "FAQs",
         "faqContent": [
@@ -110,10 +252,9 @@
           }
         ]
       },
-      "amenities":
-      {
+      "amenities": {
         "alternateHeading": "Feature & Amenities",
-        "amenitiesContent" : [
+        "amenitiesContent": [
           {
             "amenityLabel": "MOSQUE",
             "amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
