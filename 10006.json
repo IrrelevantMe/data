@@ -1,160 +1,241 @@
 {
-  "propertyId": 10006,
-  "propertyName": "The Sustainable City",
-  "licenseNumber": "202202221143",
-  "projectNumber": "PRJ-2023-01-Something",
-  "content": {
-    "textContent": {
-      "tagLine": "A sustainable home made for today by the creators of a better tomorrow",
-      "propertyLabel": "The Sustainable City",
-      "aboutBlocks": [
-        {
-          "aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
-          "aboutBlockValue": "For All",
-          "aboutBlockKey": "Nationalities"
-        },
-        {
-          "aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
-          "aboutBlockValue": "AED 890,000",
-          "aboutBlockKey": "Starting Price"
-        },
-        {
-          "aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
-          "aboutBlockValue": "758 Sq Ft",
-          "aboutBlockKey": "Starting Area"
-        },
-        {
-          "aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
-          "aboutBlockValue": "5 %",
-          "aboutBlockKey": "Downpayment"
-        },
-        {
-          "aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
-          "aboutBlockValue": "Q4 - 2025",
-          "aboutBlockKey": "Handover"
-        },
-        {
-          "aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
-          "aboutBlockValue": "Yas Island",
-          "aboutBlockKey": "Location"
-        }
-      ],
-      "about": {
-        "alternateHeading": "ABOUT",
-        "aboutContent": [
-          {
-            "type": "para",
-            "body": [
-              "The Sustainable City Yas Island by Aldar Properties is a new residential advancement offering 1, 2 & 3 bedroom condos and 3-4 bedroom townhouses within Abu Dhabi. With the aim of offering a concept where \" you live life as it should be \". Keeping in mind the responsibility of a better future and the resources that are durable and safe to pass them to generations. This wonderful land of heavenly lifestyle is created to offer a sustainable life."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "Nested pleasantly in one of the most iconic Yas Island communities that features incredible options and methods of entertainment, fun, leisure, sports, health, and more. A perfectly devised plan of crafting a sustainable city where the future lies ahead and is better. Simply passionate for your better tomorrow."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "Various smart and remarkable sustainability features are integrated in your homes and within the development that comprises high energy efficiency to save on electricity. A beautiful green landscape with a smart irrigation system to save more water. Focusing efficiently on the usage of low carbon products and recyclable material."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "While most of the areas within the city are solar powered as well, low flow water fixtures to save water, reuse of wastewater in irrigation, etc. While easy accessibility throughout the community along with car free residential clusters to encourage walking that also improves your health. Overall the development stands for what it signifies its name."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "Key Highlights:"
-            ]
-          },
-          {
-            "type": "list",
-            "body": [
-              "Premium condominium and townhouses",
-              "Collection of 1 to 4 bedroom sustainable residences",
-              "Easy accessibility throughout the city",
-              "Solar powered areas and sustainable environment",
-              "Lush green landscapes with irrigation system",
-              "Special methods for water treatment and saving water"
-            ]
-          }
-        ]
-      },
-
-      "faqs": {
-        "alternateHeading": "FAQs",
-        "faqContent": [
-          {
-            "ques": "What is the total area (sqm) ofthe master plan?",
-            "ans": "Approximately 2.4 Million sqm."
-          },
-          {
-            "ques": "Are the units furnished?",
-            "ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
-          },
-          {
-            "ques": "What would be the service charges and what is included?",
-            "ans": "SC is estimated around AED 22/ per sqm."
-          },
-          {
-            "ques": "How would the air-conditioning work? Is it centralized?",
-            "ans": "Units will have DX Split AC."
-          },
-          {
-            "ques": "Can I choose the type of finishing of my unit?",
-            "ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
-          }
-        ]
-      },
-      "amenities": {
-        "alternateHeading": "Feature & Amenities",
-        "amenitiesContent": [
-          {
-            "amenityLabel": "BEACH ACCESS",
-            "amenityIcon": "fa-solid fa-umbrella-beach fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "GYMNASIUM",
-            "amenityIcon": "fa-solid fa-dumbbell fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "INFINITY POOL",
-            "amenityIcon": "fa-solid fa-water-ladder fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "RESTAURANTS",
-            "amenityIcon": "fa-solid fa-utensils fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "RETAIL OUTLETS",
-            "amenityIcon": "fa-solid fa-cart-shopping fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "KIDS PLAY AREA",
-            "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
-          }
-        ]
-      }
-    },
-    "galleryContent": {
-      "carouselImages": [
-        "/assets/images/10001/exterior-1.webp",
-        "/assets/images/10001/exterior-2.webp",
-        "/assets/images/10001/exterior-3.webp",
-        "/assets/images/10001/interior-1.webp",
-        "/assets/images/10001/about.webp"
-      ],
-      "aboutImage": "/assets/images/10001/about.webp"
-    },
-    "mapContent": {
-      "latitude": 123.456,
-      "longitude": -45.678,
-      "markerLabel": "Sample Location"
-    }
-  }
+	"propertyId": 10006,
+	"propertyName": "The Sustainable City",
+	"licenseNumber": "202202221143",
+	"projectNumber": "PRJ-2023-01-Something",
+	"content": {
+		"textContent": {
+			"tagLine": "A sustainable home made for today by the creators of a better tomorrow",
+			"propertyLabel": "The Sustainable City",
+			"aboutBlocks": [{
+					"aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+					"aboutBlockValue": "For All",
+					"aboutBlockKey": "Nationalities"
+				},
+				{
+					"aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+					"aboutBlockValue": "AED 890,000",
+					"aboutBlockKey": "Starting Price"
+				},
+				{
+					"aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+					"aboutBlockValue": "758 Sq Ft",
+					"aboutBlockKey": "Starting Area"
+				},
+				{
+					"aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+					"aboutBlockValue": "5 %",
+					"aboutBlockKey": "Downpayment"
+				},
+				{
+					"aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+					"aboutBlockValue": "Q4 - 2025",
+					"aboutBlockKey": "Handover"
+				},
+				{
+					"aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+					"aboutBlockValue": "Yas Island",
+					"aboutBlockKey": "Location"
+				}
+			],
+			"about": {
+				"alternateHeading": "ABOUT",
+				"aboutContent": [{
+						"type": "para",
+						"body": [
+							"The Sustainable City Yas Island by Aldar Properties is a new residential advancement offering 1, 2 & 3 bedroom condos and 3-4 bedroom townhouses within Abu Dhabi. With the aim of offering a concept where \" you live life as it should be \". Keeping in mind the responsibility of a better future and the resources that are durable and safe to pass them to generations. This wonderful land of heavenly lifestyle is created to offer a sustainable life."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Nested pleasantly in one of the most iconic Yas Island communities that features incredible options and methods of entertainment, fun, leisure, sports, health, and more. A perfectly devised plan of crafting a sustainable city where the future lies ahead and is better. Simply passionate for your better tomorrow."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Various smart and remarkable sustainability features are integrated in your homes and within the development that comprises high energy efficiency to save on electricity. A beautiful green landscape with a smart irrigation system to save more water. Focusing efficiently on the usage of low carbon products and recyclable material."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"While most of the areas within the city are solar powered as well, low flow water fixtures to save water, reuse of wastewater in irrigation, etc. While easy accessibility throughout the community along with car free residential clusters to encourage walking that also improves your health. Overall the development stands for what it signifies its name."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Key Highlights:"
+						]
+					},
+					{
+						"type": "list",
+						"body": [
+							"Premium condominium and townhouses",
+							"Collection of 1 to 4 bedroom sustainable residences",
+							"Easy accessibility throughout the city",
+							"Solar powered areas and sustainable environment",
+							"Lush green landscapes with irrigation system",
+							"Special methods for water treatment and saving water"
+						]
+					}
+				]
+			},
+			"pricing": {
+				"alternateHeading": "PAYMENT PLAN",
+				"paymentPlan": [{
+						"paymentPlanId": "plan1",
+						"paymentPlanName": "35/65",
+						"checked": true,
+						"installments": [{
+								"amount": "5 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "5 %",
+								"milestone": null,
+								"dueDate": "30-Jun-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "31-Dec-23"
+							},
+							{
+								"amount": "5 %",
+								"milestone": null,
+								"dueDate": "31-May-24"
+							},
+							{
+								"amount": "5 %",
+								"milestone": null,
+								"dueDate": "30-Nov-24"
+							},
+							{
+								"amount": "5 %",
+								"milestone": null,
+								"dueDate": "30-Apr-25"
+							},
+							{
+								"amount": "65 %",
+								"milestone": "On Handover",
+								"dueDate": "2025"
+							}
+						]
+					},
+					{
+						"paymentPlanId": "plan2",
+						"paymentPlanName": "60/40 (2% Rebate)",
+						"checked": false,
+						"installments": [{
+								"amount": "10 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "30-Jun-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "31-Dec-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "31-May-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "30-Nov-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": null,
+								"dueDate": "30-Apr-25"
+							},
+							{
+								"amount": "40 %",
+								"milestone": "On Handover",
+								"dueDate": "2025"
+							}
+						]
+					}
+				]
+			},
+			"faqs": {
+				"alternateHeading": "FAQs",
+				"faqContent": [{
+						"ques": "What is the total area (sqm) ofthe master plan?",
+						"ans": "Approximately 2.4 Million sqm."
+					},
+					{
+						"ques": "Are the units furnished?",
+						"ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+					},
+					{
+						"ques": "What would be the service charges and what is included?",
+						"ans": "SC is estimated around AED 22/ per sqm."
+					},
+					{
+						"ques": "How would the air-conditioning work? Is it centralized?",
+						"ans": "Units will have DX Split AC."
+					},
+					{
+						"ques": "Can I choose the type of finishing of my unit?",
+						"ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+					}
+				]
+			},
+			"amenities": {
+				"alternateHeading": "Feature & Amenities",
+				"amenitiesContent": [{
+						"amenityLabel": "BEACH ACCESS",
+						"amenityIcon": "fa-solid fa-umbrella-beach fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "GYMNASIUM",
+						"amenityIcon": "fa-solid fa-dumbbell fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "INFINITY POOL",
+						"amenityIcon": "fa-solid fa-water-ladder fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "RESTAURANTS",
+						"amenityIcon": "fa-solid fa-utensils fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "RETAIL OUTLETS",
+						"amenityIcon": "fa-solid fa-cart-shopping fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "KIDS PLAY AREA",
+						"amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+					}
+				]
+			}
+		},
+		"galleryContent": {
+			"carouselImages": [
+				"/assets/images/10001/exterior-1.webp",
+				"/assets/images/10001/exterior-2.webp",
+				"/assets/images/10001/exterior-3.webp",
+				"/assets/images/10001/interior-1.webp",
+				"/assets/images/10001/about.webp"
+			],
+			"aboutImage": "/assets/images/10001/about.webp"
+		},
+		"mapContent": {
+			"latitude": 123.456,
+			"longitude": -45.678,
+			"markerLabel": "Sample Location"
+		}
+	}
 }
