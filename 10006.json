@@ -40,7 +40,7 @@
         }
       ],
       "about": {
-        "alternateheading": "ABOUT",
+        "alternateHeading": "ABOUT",
         "aboutContent": [
           {
             "type": "para",
@@ -85,9 +85,9 @@
           }
         ]
       },
-      "pricing": {},
+
       "faqs": {
-        "alternateheading": "FAQs",
+        "alternateHeading": "FAQs",
         "faqContent": [
           {
             "ques": "What is the total area (sqm) ofthe master plan?",
@@ -112,7 +112,7 @@
         ]
       },
       "amenities": {
-        "alternateheading": "Feature & Amenities",
+        "alternateHeading": "Feature & Amenities",
         "amenitiesContent": [
           {
             "amenityLabel": "BEACH ACCESS",
