@@ -88,9 +88,9 @@
         "alternateHeading": "PAYMENT PLAN",
         "paymentPlan": [
           {
-            "paymentPlanId":"plan1",
+            "paymentPlanId": "paymentPlan1",
             "paymentPlanName": "40/60",
-            "checked" : true,
+            "checked": true,
             "installments": [
               {
                 "amount": "5 %",
@@ -130,9 +130,9 @@
             ]
           },
           {
-            "paymentPlanId":"plan2",
+            "paymentPlanId": "paymentPlan2",
             "paymentPlanName": "50/50 (2% Rebate)",
-            "checked" : false,
+            "checked": false,
             "installments": [
               {
                 "amount": "5 %",
@@ -172,9 +172,9 @@
             ]
           },
           {
-            "paymentPlanId":"plan3",
+            "paymentPlanId": "paymentPlan3",
             "paymentPlanName": "60/40 (3% Rebate)",
-            "checked" : false,
+            "checked": false,
             "installments": [
               {
                 "amount": "10 %",
@@ -214,9 +214,9 @@
             ]
           },
           {
-            "paymentPlanId":"plan4",
+            "paymentPlanId": "paymentPlan4",
             "paymentPlanName": "100% (5% Discount)",
-            "checked" : false,
+            "checked": false,
             "installments": [
               {
                 "amount": "100 %",
@@ -283,14 +283,30 @@
       }
     },
     "galleryContent": {
-      "carouselImages": [
-        "/assets/images/10001/exterior-1.webp",
-        "/assets/images/10001/exterior-2.webp",
-        "/assets/images/10001/exterior-3.webp",
-        "/assets/images/10001/interior-1.webp",
-        "/assets/images/10001/about.webp"
-      ],
-      "aboutImage": "/assets/images/10001/about.webp"
+      "aboutImage": "/assets/images/10001/about.webp",
+      "floorPlans": {
+        "alternateHeading": "FLOOR PLAN",
+        "floorPlan": [
+          {
+            "floorPlanId":"floorPlan1",
+            "floorPlanName": "4-Bedroom",
+            "checked": true,
+            "floorPlanImages" : ["",""]
+          },
+          {
+            "floorPlanId":"floorPlan2",
+            "floorPlanName": "5-Bedroom",
+            "checked": false,
+            "floorPlanImages" : ["",""]
+          },
+          {
+            "floorPlanId":"floorPlan3",
+            "floorPlanName": "6-Bedroom",
+            "checked": false,
+            "floorPlanImages" : ["",""]
+          }
+        ]
+      }
     },
     "mapContent": {
       "latitude": 123.456,
