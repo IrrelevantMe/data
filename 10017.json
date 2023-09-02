@@ -291,19 +291,19 @@
             "floorPlanId":"floorPlan1",
             "floorPlanName": "4-Bedroom",
             "checked": true,
-            "floorPlanImages" : ["",""]
+            "floorPlanImages" : ["10017/floorplans/4b/4b-1","10017/floorplans/4b/4b-2"]
           },
           {
             "floorPlanId":"floorPlan2",
             "floorPlanName": "5-Bedroom",
             "checked": false,
-            "floorPlanImages" : ["",""]
+            "floorPlanImages" : ["10017/floorplans/4b/5b-1","10017/floorplans/4b/5b-2"]
           },
           {
             "floorPlanId":"floorPlan3",
             "floorPlanName": "6-Bedroom",
             "checked": false,
-            "floorPlanImages" : ["",""]
+            "floorPlanImages" : ["10017/floorplans/4b/6b-1","10017/floorplans/4b/6b-2"]
           }
         ]
       }
