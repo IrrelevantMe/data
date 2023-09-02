@@ -291,7 +291,7 @@
             "floorPlanId":"floorPlan1",
             "floorPlanName": "4-Bedroom",
             "checked": true,
-            "floorPlanImages" : ["https://imagedelivery.net/fxTrMHhffax28eZRFHxqMQ/10017/floorplans/4b/4b-1/public","https://imagedelivery.net/fxTrMHhffax28eZRFHxqMQ/10017/floorplans/4b/4b-2/public"]
+            "floorPlanImages" : ["http://imagedelivery.net/fxTrMHhffax28eZRFHxqMQ/10017/floorplans/4b/4b-1/public","http://imagedelivery.net/fxTrMHhffax28eZRFHxqMQ/10017/floorplans/4b/4b-2/public"]
           },
           {
             "floorPlanId":"floorPlan2",
