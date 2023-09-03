@@ -1,5 +1,5 @@
 {
-  "loading":false,
+  "loading": false,
   "propertyId": 10017,
   "propertyName": "Fay Al Reeman II",
   "licenseNumber": "202202221143",
@@ -284,27 +284,75 @@
       }
     },
     "galleryContent": {
-      "aboutImage": "/assets/images/10001/about.webp",
+      "aboutImage": "/10017/about",
+      "gallery": {
+        "alternateHeading": "GALLERY",
+        "exterior": {
+          "exteriorImages": [
+            "10017/exterior/exterior-1",
+            "10017/exterior/exterior-2",
+            "10017/exterior/exterior-3",
+            "10017/exterior/exterior-4",
+            "10017/exterior/exterior-5",
+            "10017/exterior/exterior-6",
+            "10017/exterior/exterior-7",
+            "10017/exterior/exterior-8",
+            "10017/exterior/exterior-9",
+            "10017/exterior/exterior-10",
+            "10017/exterior/exterior-11",
+            "10017/exterior/exterior-12",
+            "10017/exterior/exterior-13",
+            "10017/exterior/exterior-14",
+            "10017/exterior/exterior-15",
+            "10017/exterior/exterior-16",
+            "10017/exterior/exterior-17",
+            "10017/exterior/exterior-18",
+            "10017/exterior/exterior-19"
+          ]
+        },
+        "interior": {
+          "interiorImages": [
+            "10017/interior/interior-1",
+            "10017/interior/interior-2",
+            "10017/interior/interior-3",
+            "10017/interior/interior-4",
+            "10017/interior/interior-5",
+            "10017/interior/interior-6",
+            "10017/interior/interior-7",
+            "10017/interior/interior-8",
+            "10017/interior/interior-9"
+          ]
+        }
+      },
       "floorPlans": {
         "alternateHeading": "FLOOR PLAN",
         "floorPlan": [
           {
-            "floorPlanId":"floorPlan1",
+            "floorPlanId": "floorPlan1",
             "floorPlanName": "4-Bedroom",
             "checked": true,
-            "floorPlanImages" : ["/10017/floorplans/4b/4b-1","/10017/floorplans/4b/4b-2"]
+            "floorPlanImages": [
+              "/10017/floorplans/4b/4b-1",
+              "/10017/floorplans/4b/4b-2"
+            ]
           },
           {
-            "floorPlanId":"floorPlan2",
+            "floorPlanId": "floorPlan2",
             "floorPlanName": "5-Bedroom",
             "checked": false,
-            "floorPlanImages" : ["/10017/floorplans/5b/5b-1","/10017/floorplans/5b/5b-2"]
+            "floorPlanImages": [
+              "/10017/floorplans/5b/5b-1",
+              "/10017/floorplans/5b/5b-2"
+            ]
           },
           {
-            "floorPlanId":"floorPlan3",
+            "floorPlanId": "floorPlan3",
             "floorPlanName": "6-Bedroom",
             "checked": false,
-            "floorPlanImages" : ["/10017/floorplans/6b/6b-1","/10017/floorplans/6b/6b-2"]
+            "floorPlanImages": [
+              "/10017/floorplans/6b/6b-1",
+              "/10017/floorplans/6b/6b-2"
+            ]
           }
         ]
       }
@@ -315,5 +363,5 @@
       "markerLabel": "Sample Location"
     }
   },
-  "cdnUrl":"https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
+  "cdnUrl": "https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
 }
