@@ -1,7 +1,7 @@
 {
-  "loading":false,
+  "loading": false,
   "propertyId": 10006,
-  "propertyName": "The Sustainable City",
+  "propertyName": "The-Sustainable-City",
   "licenseNumber": "202202221143",
   "projectNumber": "PRJ-2023-01-Something",
   "content": {
@@ -231,7 +231,41 @@
       }
     },
     "galleryContent": {
-      "aboutImage": "/assets/images/10001/about.webp",
+      "aboutImage": "/10006/about",
+      "landingPageGallery": {
+        "propertyBrand": "/10006/propertyBrand",
+        "landingPageImages": [
+          "/10006/exterior/exterior-6",
+          "/10006/exterior/exterior-5",
+          "/10006/exterior/exterior-4",
+          "/10006/exterior/exterior-1"
+        ]
+      },
+      "gallery": {
+        "alternateHeading": "GALLERY",
+        "exterior": {
+          "exteriorImages": [
+            "/10006/exterior/exterior-1",
+            "/10006/exterior/exterior-2",
+            "/10006/exterior/exterior-3",
+            "/10006/exterior/exterior-4",
+            "/10006/exterior/exterior-5",
+            "/10006/exterior/exterior-6",
+            "/10006/exterior/exterior-7"
+          ]
+        },
+        "interior": {
+          "interiorImages": [
+            "/10006/interior/interior-1",
+            "/10006/interior/interior-2",
+            "/10006/interior/interior-3",
+            "/10006/interior/interior-4",
+            "/10006/interior/interior-5",
+            "/10006/interior/interior-6",
+            "/10006/interior/interior-7"
+          ]
+        }
+      },
       "floorPlans": {
         "alternateHeading": "FLOOR PLAN",
         "floorPlan": [
@@ -240,8 +274,7 @@
             "floorPlanName": "1-Bedroom",
             "checked": true,
             "floorPlanImages": [
-              "",
-              ""
+              "/10006/floorplans/1b/1b-1"
             ]
           },
           {
@@ -249,8 +282,7 @@
             "floorPlanName": "2-Bedroom",
             "checked": false,
             "floorPlanImages": [
-              "",
-              ""
+              "/10006/floorplans/2b/2b-1"
             ]
           },
           {
@@ -258,8 +290,8 @@
             "floorPlanName": "3-Bedroom",
             "checked": false,
             "floorPlanImages": [
-              "",
-              ""
+              "/10006/floorplans/3b/3b-1",
+              "/10006/floorplans/3b/3b-2"
             ]
           },
           {
@@ -267,8 +299,7 @@
             "floorPlanName": "4-Bedroom",
             "checked": false,
             "floorPlanImages": [
-              "",
-              ""
+              "/10006/floorplans/4b/4b-1"
             ]
           }
         ]
@@ -279,5 +310,6 @@
       "longitude": -45.678,
       "markerLabel": "Sample Location"
     }
-  }
+  },
+  "cdnUrl": "https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
 }
