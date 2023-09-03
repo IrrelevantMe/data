@@ -365,9 +365,7 @@
       }
     },
     "mapContent": {
-      "latitude": 123.456,
-      "longitude": -45.678,
-      "markerLabel": "Sample Location"
+      "locationImage":"/10017/location"
     }
   },
   "cdnUrl": "https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
