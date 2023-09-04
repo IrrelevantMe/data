@@ -1,5 +1,288 @@
 {
-  "loading": true,
-  "propertyId": "10012", 
-  "propertyName": "Saadiyat Grove Residences"
+  "loading": false,
+  "propertyId": 10012,
+  "propertyName": "Saadiyat-Grove",
+  "licenseNumber": "202202221143",
+  "projectNumber": "PRJ-2023-01-Something",
+  "content": {
+    "textContent": {
+      "tagLine": "A magnificent development that offers elegant designed residential units located at Saadiyat Island, Abu Dhabi",
+      "propertyLabel": "Saadiyat Grove",
+      "aboutBlocks": [
+        {
+          "aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+          "aboutBlockValue": "For All",
+          "aboutBlockKey": "Nationalities"
+        },
+        {
+          "aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+          "aboutBlockValue": "AED 905,000",
+          "aboutBlockKey": "Starting Price"
+        },
+        {
+          "aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+          "aboutBlockValue": "2,077 sq. ft",
+          "aboutBlockKey": "Starting Area"
+        },
+        {
+          "aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+          "aboutBlockValue": "5 %",
+          "aboutBlockKey": "Downpayment"
+        },
+        {
+          "aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+          "aboutBlockValue": "Jun 2025",
+          "aboutBlockKey": "Handover"
+        },
+        {
+          "aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+          "aboutBlockValue": "SAADIYAT ISLAND",
+          "aboutBlockKey": "Location"
+        }
+      ],
+      "about": {
+        "alternateHeading": "ABOUT",
+        "aboutContent": [
+          {
+            "type": "para",
+            "body": [
+              "The new multifunctional complex of Saadiyat Grove is one of the largest scale projects in Abu Dhabi so far, by the master developer Aldar Properties. The construction of the AED 8B (USD 2B) development began in November 2019 and will offer 3,706 residential units in total, 170 of which are branded residences. Saadiyat Grove is set to become a mixed-use community in the heart of the beautiful Cultural District on Saadiyat Island."
+            ]
+          },
+          {
+            "type": "para",
+            "body": [
+              "Previously, the developer announced that Saadiyat Grove will be delivered in phases. As a result, the first phase will be handed over in 2025 with the planned construction of 606 residential units and 200 retail spaces. Moreover, the first phase plans to include numerous amenities, such as:"
+            ]
+          },
+          {
+            "type": "list",
+            "body": [
+              "Gyms",
+              "Pools",
+              "Children’s playgrounds",
+              "Landscaped gardens",
+              "Running track through the entire community"
+            ]
+          },
+          {
+            "type": "para",
+            "body": [
+              "Foundations were completed by Dutch Foundations in 2020 and according to AECOM Middle East, each residence will feature floor-to-ceiling panoramic glazing. The main features of the upcoming grand development of Saadiyat Grove are as follows:"
+            ]
+          },{
+            "type": "list",
+            "body": [
+              "Total area of 6.4 million sq.ft.",
+              "3 and 4-star hotels",
+              "Nearly 140 thousand sq.ft. of office and retail space"
+            ]                       
+          }
+        ]
+      },
+      "pricing": {
+        "alternateHeading": "PAYMENT PLAN",
+        "paymentPlan": [
+          {
+            "paymentPlanId": "paymentPlan1",
+            "paymentPlanName": "40/60",
+            "checked": true,
+            "installments": [
+              {
+                "amount": "10 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Construction Start",
+                "dueDate": "30-Nov-22"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Completion of Sub Structure - first floor slab",
+                "dueDate": "31-May-23"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Completion of structural works",
+                "dueDate": "30-Nov-23"
+              },
+              {
+                "amount": "5 %",
+                "milestone": "Façade works for Residential buildings",
+                "dueDate": "31-May-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "External Hard and soft landscaping",
+                "dueDate": "30-Nov-24"
+              },
+              {
+                "amount": "60 %",
+                "milestone": "Completion Date",
+                "dueDate": "31-May-25"
+              }
+            ]
+          },
+          {
+            "paymentPlanId": "paymentPlan3",
+            "paymentPlanName": "60/40",
+            "checked": false,
+            "installments": [
+              {
+                "amount": "5 %",
+                "milestone": "Upon Signing of SPA",
+                "dueDate": "TBD"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Construction Start",
+                "dueDate": "30-Nov-22"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Completion of Sub Structure - first floor slab",
+                "dueDate": "31-May-23"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Completion of structural works",
+                "dueDate": "30-Nov-23"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "Façade works for Residential buildings",
+                "dueDate": "31-May-24"
+              },
+              {
+                "amount": "10 %",
+                "milestone": "External Hard and soft landscaping",
+                "dueDate": "30-Nov-24"
+              },
+              {
+                "amount": "40 %",
+                "milestone": "Completion Date",
+                "dueDate": "31-May-25"
+              }
+            ]
+          }
+        ]
+      },
+      "faqs": {
+        "alternateHeading": "FAQs",
+        "faqContent": [
+          {
+            "ques": "What is the total area (sqm) ofthe master plan?",
+            "ans": "Approximately 2.4 Million sqm."
+          },
+          {
+            "ques": "Are the units furnished?",
+            "ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+          },
+          {
+            "ques": "What would be the service charges and what is included?",
+            "ans": "SC is estimated around AED 22/ per sqm."
+          },
+          {
+            "ques": "How would the air-conditioning work? Is it centralized?",
+            "ans": "Units will have DX Split AC."
+          },
+          {
+            "ques": "Can I choose the type of finishing of my unit?",
+            "ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+          }
+        ]
+      },
+      "amenities": {
+        "alternateHeading": "Feature & Amenities",
+        "amenitiesContent": [
+          {
+            "amenityLabel": "MOSQUE",
+            "amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
+          },
+          {
+            "amenityLabel": "SCHOOL",
+            "amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
+          },
+          {
+            "amenityLabel": "COMMUNITY RETAIL",
+            "amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
+          },
+          {
+            "amenityLabel": "KIDS PLAY AREA",
+            "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+          },
+          {
+            "amenityLabel": "OPEN GREEN SPACES",
+            "amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
+          },
+          {
+            "amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+            "amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
+          }
+        ]
+      }
+    },
+    "galleryContent": {
+      "aboutImage": "/10012/exterior/exterior-1",
+      "landingPageGallery": {
+        "propertyBrand": "/10012/propertyBrand",
+        "landingPageImages": [
+          "/10012/interior/interior-2",
+          "/10012/interior/interior-3",
+          "/10012/interior/interior-4",
+          "/10012/interior/interior-5"
+        ]
+      },
+      "gallery": {
+        "alternateHeading": "GALLERY",
+        "exterior": {
+          "exteriorImages": [
+            "/10012/exterior/exterior-1",
+            "/10012/exterior/exterior-2",
+            "/10012/exterior/exterior-3",
+            "/10012/exterior/exterior-4",
+            "/10012/exterior/exterior-5"
+          ]
+        },
+        "interior": {
+          "interiorImages": [
+            "/10012/interior/interior-1",
+            "/10012/interior/interior-2",
+            "/10012/interior/interior-3",
+            "/10012/interior/interior-4",
+            "/10012/interior/interior-5",
+            "/10012/interior/interior-6"
+          ]
+        }
+      },
+      "floorPlans": {
+        "alternateHeading": "FLOOR PLAN",
+        "floorPlan": [
+          {
+            "floorPlanId": "floorPlan1",
+            "floorPlanName": "1-Bedroom",
+            "checked": true,
+            "floorPlanImages": [
+              "/10012/floorplans/1b/1b-1"
+            ]
+          },
+          {
+            "floorPlanId": "floorPlan2",
+            "floorPlanName": "2-Bedroom",
+            "checked": false,
+            "floorPlanImages": [
+              "/10012/floorplans/2b/2b-1",
+              "/10012/floorplans/2b/2b-2"
+            ]
+          }
+        ]
+      }
+    },
+    "mapContent": {
+      "locationImage": "/10012/location"
+    }
+  },
+  "cdnUrl": "https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
 }
