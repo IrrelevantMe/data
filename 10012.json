@@ -229,10 +229,10 @@
       "landingPageGallery": {
         "propertyBrand": "/10012/propertyBrand",
         "landingPageImages": [
-          "/10012/interior/interior-2",
-          "/10012/interior/interior-3",
-          "/10012/interior/interior-4",
-          "/10012/interior/interior-5"
+          "/10012/exterior/exterior-2",
+            "/10012/exterior/exterior-3",
+            "/10012/exterior/exterior-4",
+            "/10012/exterior/exterior-5"
         ]
       },
       "gallery": {
