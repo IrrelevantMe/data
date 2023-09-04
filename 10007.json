@@ -223,7 +223,7 @@
       "landingPageGallery": {
         "propertyBrand": "/10007/propertyBrand",
         "landingPageImages": [
-          "/10007/exterior/exterior-2",
+          "/10007/interior/interior-6",
           "/10007/interior/interior-8",
           "/10007/interior/interior-9",
           "/10007/interior/interior-10"
@@ -233,8 +233,7 @@
         "alternateHeading": "GALLERY",
         "exterior": {
           "exteriorImages": [
-            "/10007/exterior/exterior-1",
-            "/10007/exterior/exterior-2"
+            "/10007/exterior/exterior-1"
           ]
         },
         "interior": {
