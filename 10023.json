@@ -210,7 +210,7 @@
       }
     },
     "mapContent": {
-      "locationImage": "/10023/location"
+      "location": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ69Y4TTFPXj4RhWgPXwmZA1A&zoom=13&key=AIzaSyAUIw6V0s94HATqIFmIxR1h95wtCmtPbTM"
     }
   },
   "cdnUrl": "https://offplanabudhabi.ae/cdn-cgi/imagedelivery/fxTrMHhffax28eZRFHxqMQ"
