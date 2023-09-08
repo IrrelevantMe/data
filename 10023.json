@@ -1,259 +1,260 @@
 {
-  "loading": false,
-  "propertyId": 10023,
-  "propertyName": "Gardenia-Bay",
-  "licenseNumber": "202202221143",
-  "projectNumber": "PRJ-2023-01-Something",
-  "content": {
-    "textContent": {
-      "tagLine": "The New Home Of Balanced Living on Yas Island",
-       "tagLine2": "Studio - 3 Bedroom Apartments",
-      "propertyLabel": "Gardenia Bay",
-      "aboutBlocks": [
-        {
-          "aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
-          "aboutBlockValue": "For All",
-          "aboutBlockKey": "Nationalities"
-        },
-        {
-          "aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
-          "aboutBlockValue": "AED 805,000",
-          "aboutBlockKey": "Starting Price"
-        },
-        {
-          "aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
-          "aboutBlockValue": "471.78 sq. ft",
-          "aboutBlockKey": "Starting Area"
-        },
-        {
-          "aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
-          "aboutBlockValue": "5 %",
-          "aboutBlockKey": "Downpayment"
-        },
-        {
-          "aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
-          "aboutBlockValue": "Q2 - 2027",
-          "aboutBlockKey": "Handover"
-        },
-        {
-          "aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
-          "aboutBlockValue": "Yas Island",
-          "aboutBlockKey": "Location"
-        }
-      ],
-      "about": {
-        "alternateHeading": "ABOUT",
-        "aboutContent": [
-          {
-            "type": "para",
-            "body": [
-              "Embrace a life of serenity and green canal-side living with Gardenia Bay, Aldar's latest residential gem on Yas Island with studios to 3 bedroom apartments. This visionary residential is masterfully crafted in Abu Dhabi to redefine the concept of future, where sustainable and tranquil living is paramount, emerging as a testament to this evolving urban landscape."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "Situated in close proximity to Yas Park and iconic Yas Island attractions like Yas Mall, Ferrari World Abu Dhabi, and SeaWorld Abu Dhabi, it offers a remarkable living experience. Residents can also enjoy easy access to Abu Dhabi International Airport and major highways connecting to Saadiyat Island, and Dubai."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "The development goes beyond just residences; it offers a sense of community with numerous amenities, including 'The Bay View' social clubhouse, co-working spaces, outdoor working pods, community farming, zen gardens, barbecue areas, educational kids' play zones, an amphitheatre, and an urban beach club. Additionally, there's a gymnasium, cycling and jogging tracks, a café, and a multipurpose area. A mosque accommodating over 2,000 worshippers will also be a part of this remarkable community."
-            ]
-          },
-          {
-            "type": "para",
-            "body": [
-              "Key Highlights:"            ]
-          },
-          {
-            "type": "list",
-            "body": [
-              "New development with the ultimate green canal-side living experience at Yas Island",
-              "Luxurious collection of studios, 1, 2 and 3 bedroom apartments",
-              "The development overlooks the picturesque Yas Park, enhancing its natural beauty",
-              "Easy access to Abu Dhabi International Airport and major highways makes commuting a breeze",
-              "Direct access to Yas Island's 10 km canal front promenade encourages outdoor activities",
-              "Water features and extensive landscaping add to the beauty and tranquility of the environment"
-          ]
-          }
-        ]
-      },
-      "pricing": {
-        "alternateHeading": "PAYMENT PLAN",
-        "paymentPlan": [
-          {
-            "paymentPlanId": "paymentPlan1",
-            "paymentPlanName": "50/50",
-            "checked": true,
-            "installments": [
-              {
-                "amount": "5 %",
-                "milestone": "Upon Signing of SPA",
-                "dueDate": "TBD"
-              },
-              {
-                "amount": "10 %",
-                "milestone": "Contractor Appointment",
-                "dueDate": "31-Mar-24"
-              },
-              {
-                "amount": "10 %",
-                "milestone": "Piling works completion",
-                "dueDate": "30-Nov-24"
-              },
-              {
-                "amount": "10 %",
-                "milestone": "super structure completion 50%",
-                "dueDate": "30-Jun-25"
-              },
-              {
-                "amount": "10 %",
-                "milestone": "Villa super structure completion 100%",
-                "dueDate": "31-Jan-26"
-              },
-              {
-                "amount": "5 %",
-                "milestone": "Façade completion",
-                "dueDate": "31-Oct-26"
-              },
-              {
-                "amount": "50 %",
-                "milestone": "On Handover",
-                "dueDate": "30-Jun-27"
-              }
-            ]
-          }
-        ]
-      },
-      "faqs": {
-        "alternateHeading": "FAQs",
-        "faqContent": [
-          {
-            "ques": "What is the completion date for Gardenia Bay?",
-            "ans": "The completion date for Gardenia Bay Jun 2027"
-          },
-          {
-            "ques": "What is the minimum and maximum property size in Gardenia Bay?",
-            "ans": "The property size in Gardenia Bay 473612 - 1937 Sq. ft"
-          },
-          {
-            "ques": "Which beaches are near to Gardenia Bay?",
-            "ans": "Al Raha Beach (4.15 km), Yas Beach (4.42 km)"
-          },
-          {
-            "ques": "What are the appliances included with Units?",
-            "ans": "Cooker & range hood, Fridge, Dishwasher, AC Chilled water system with fan coil units"
-          }
-        ]
-      },
-      "amenities": {
-        "alternateHeading": "Feature & Amenities",
-        "amenitiesContent": [
-          {
-            "amenityLabel": "MOSQUE",
-            "amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "SCHOOL",
-            "amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "COMMUNITY RETAIL",
-            "amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "KIDS PLAY AREA",
-            "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "OPEN GREEN SPACES",
-            "amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
-          },
-          {
-            "amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
-            "amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
-          }
-        ]
-      }
-    },
-    "galleryContent": {
-      "aboutImage": "/10023/about",
-      "landingPageGallery": {
-        "propertyBrand":"/10023/propertyBrand",
-        "landingPageImages": [
-          "/10023/exterior/exterior-2",
-          "/10023/interior/interior-4",
-          "/10023/interior/interior-5",
-          "/10023/interior/interior-6"
-        ]
-      },
-      "gallery": {
-        "alternateHeading": "GALLERY",
-        "exterior": {
-          "exteriorImages": [
-            "/10023/exterior/exterior-2"
-          ]
-        },
-        "interior": {
-          "interiorImages": [
-            "/10023/interior/interior-1",
-            "/10023/interior/interior-2",
-            "/10023/interior/interior-3",
-            "/10023/interior/interior-4",
-            "/10023/interior/interior-5",
-            "/10023/interior/interior-6",
-            "/10023/interior/interior-7"
-          ]
-        }
-      }
-    },"floorPlans": {
-        "alternateHeading": "FLOOR PLAN",
-        "floorPlan": [
-          {
-            "floorPlanId": "floorPlan1",
-            "floorPlanName": "Studio",
-            "checked": true,
-            "floorPlanImages": [
-              "/10023/floorplans/studio/studio-1"
-            ]
-          },
-          {
-            "floorPlanId": "floorPlan2",
-            "floorPlanName": "1-Bedroom",
-            "checked": false,
-            "floorPlanImages": [
-              "/10023/floorplans/1b/1b-1",
-              "/10023/floorplans/1b/1b-2"
-            ]
-          },
-          {
-            "floorPlanId": "floorPlan3",
-            "floorPlanName": "2-Bedroom",
-            "checked": false,
-            "floorPlanImages": [
-              "/10023/floorplans/2b/2b-1",
-              "/10023/floorplans/2b/2b-2",
-              "/10023/floorplans/2b/2b-3"
-            ]
-          },
-          {
-            "floorPlanId": "floorPlan3",
-            "floorPlanName": "3-Bedroom",
-            "checked": false,
-            "floorPlanImages": [
-              "/10023/floorplans/3b/3b-1",
-              "/10023/floorplans/3b/3b-2",
-              "/10023/floorplans/3b/3b-3"
-            ]
-          }
-        ]
-      }
-    },
-    "mapContent": {
-      "alternateHeading": "LOCATION",
-      "location": "?q=place_id:ChIJ69Y4TTFPXj4RhWgPXwmZA1A&zoom=13&key="
-    }
-  }
+	"loading": false,
+	"propertyId": 10023,
+	"propertyName": "Gardenia-Bay",
+	"licenseNumber": "202202221143",
+	"projectNumber": "PRJ-2023-01-Something",
+	"content": {
+		"textContent": {
+			"tagLine": "The New Home Of Balanced Living on Yas Island",
+			"tagLine2": "Studio - 3 Bedroom Apartments",
+			"propertyLabel": "Gardenia Bay",
+			"aboutBlocks": [
+				{
+					"aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+					"aboutBlockValue": "For All",
+					"aboutBlockKey": "Nationalities"
+				},
+				{
+					"aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+					"aboutBlockValue": "AED 805,000",
+					"aboutBlockKey": "Starting Price"
+				},
+				{
+					"aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+					"aboutBlockValue": "471.78 sq. ft",
+					"aboutBlockKey": "Starting Area"
+				},
+				{
+					"aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+					"aboutBlockValue": "5 %",
+					"aboutBlockKey": "Downpayment"
+				},
+				{
+					"aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+					"aboutBlockValue": "Q2 - 2027",
+					"aboutBlockKey": "Handover"
+				},
+				{
+					"aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+					"aboutBlockValue": "Yas Island",
+					"aboutBlockKey": "Location"
+				}
+			],
+			"about": {
+				"alternateHeading": "ABOUT",
+				"aboutContent": [
+					{
+						"type": "para",
+						"body": [
+							"Embrace a life of serenity and green canal-side living with Gardenia Bay, Aldar's latest residential gem on Yas Island with studios to 3 bedroom apartments. This visionary residential is masterfully crafted in Abu Dhabi to redefine the concept of future, where sustainable and tranquil living is paramount, emerging as a testament to this evolving urban landscape."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Situated in close proximity to Yas Park and iconic Yas Island attractions like Yas Mall, Ferrari World Abu Dhabi, and SeaWorld Abu Dhabi, it offers a remarkable living experience. Residents can also enjoy easy access to Abu Dhabi International Airport and major highways connecting to Saadiyat Island, and Dubai."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"The development goes beyond just residences; it offers a sense of community with numerous amenities, including 'The Bay View' social clubhouse, co-working spaces, outdoor working pods, community farming, zen gardens, barbecue areas, educational kids' play zones, an amphitheatre, and an urban beach club. Additionally, there's a gymnasium, cycling and jogging tracks, a café, and a multipurpose area. A mosque accommodating over 2,000 worshippers will also be a part of this remarkable community."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Key Highlights:"
+						]
+					},
+					{
+						"type": "list",
+						"body": [
+							"New development with the ultimate green canal-side living experience at Yas Island",
+							"Luxurious collection of studios, 1, 2 and 3 bedroom apartments",
+							"The development overlooks the picturesque Yas Park, enhancing its natural beauty",
+							"Easy access to Abu Dhabi International Airport and major highways makes commuting a breeze",
+							"Direct access to Yas Island's 10 km canal front promenade encourages outdoor activities",
+							"Water features and extensive landscaping add to the beauty and tranquility of the environment"
+						]
+					}
+				]
+			},
+			"pricing": {
+				"alternateHeading": "PAYMENT PLAN",
+				"paymentPlan": [
+					{
+						"paymentPlanId": "paymentPlan1",
+						"paymentPlanName": "50/50",
+						"checked": true,
+						"installments": [
+							{
+								"amount": "5 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "Contractor Appointment",
+								"dueDate": "31-Mar-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "Piling works completion",
+								"dueDate": "30-Nov-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "super structure completion 50%",
+								"dueDate": "30-Jun-25"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "Villa super structure completion 100%",
+								"dueDate": "31-Jan-26"
+							},
+							{
+								"amount": "5 %",
+								"milestone": "Façade completion",
+								"dueDate": "31-Oct-26"
+							},
+							{
+								"amount": "50 %",
+								"milestone": "On Handover",
+								"dueDate": "30-Jun-27"
+							}
+						]
+					}
+				]
+			},
+			"faqs": {
+				"alternateHeading": "FAQs",
+				"faqContent": [
+					{
+						"ques": "What is the completion date for Gardenia Bay?",
+						"ans": "The completion date for Gardenia Bay Jun 2027"
+					},
+					{
+						"ques": "What is the minimum and maximum property size in Gardenia Bay?",
+						"ans": "The property size in Gardenia Bay 473612 - 1937 Sq. ft"
+					},
+					{
+						"ques": "Which beaches are near to Gardenia Bay?",
+						"ans": "Al Raha Beach (4.15 km), Yas Beach (4.42 km)"
+					},
+					{
+						"ques": "What are the appliances included with Units?",
+						"ans": "Cooker & range hood, Fridge, Dishwasher, AC Chilled water system with fan coil units"
+					}
+				]
+			},
+			"amenities": {
+				"alternateHeading": "Feature & Amenities",
+				"amenitiesContent": [
+					{
+						"amenityLabel": "MOSQUE",
+						"amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "SCHOOL",
+						"amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "COMMUNITY RETAIL",
+						"amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "KIDS PLAY AREA",
+						"amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "OPEN GREEN SPACES",
+						"amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+						"amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
+					}
+				]
+			}
+		},
+		"galleryContent": {
+			"aboutImage": "/10023/about",
+			"landingPageGallery": {
+				"propertyBrand": "/10023/propertyBrand",
+				"landingPageImages": [
+					"/10023/exterior/exterior-2",
+					"/10023/interior/interior-4",
+					"/10023/interior/interior-5",
+					"/10023/interior/interior-6"
+				]
+			},
+			"gallery": {
+				"alternateHeading": "GALLERY",
+				"exterior": {
+					"exteriorImages": [
+						"/10023/exterior/exterior-2"
+					]
+				},
+				"interior": {
+					"interiorImages": [
+						"/10023/interior/interior-1",
+						"/10023/interior/interior-2",
+						"/10023/interior/interior-3",
+						"/10023/interior/interior-4",
+						"/10023/interior/interior-5",
+						"/10023/interior/interior-6",
+						"/10023/interior/interior-7"
+					]
+				}
+			}
+		},
+		"floorPlans": {
+			"alternateHeading": "FLOOR PLAN",
+			"floorPlan": [
+				{
+					"floorPlanId": "floorPlan1",
+					"floorPlanName": "Studio",
+					"checked": true,
+					"floorPlanImages": [
+						"/10023/floorplans/studio/studio-1"
+					]
+				},
+				{
+					"floorPlanId": "floorPlan2",
+					"floorPlanName": "1-Bedroom",
+					"checked": false,
+					"floorPlanImages": [
+						"/10023/floorplans/1b/1b-1",
+						"/10023/floorplans/1b/1b-2"
+					]
+				},
+				{
+					"floorPlanId": "floorPlan3",
+					"floorPlanName": "2-Bedroom",
+					"checked": false,
+					"floorPlanImages": [
+						"/10023/floorplans/2b/2b-1",
+						"/10023/floorplans/2b/2b-2",
+						"/10023/floorplans/2b/2b-3"
+					]
+				},
+				{
+					"floorPlanId": "floorPlan3",
+					"floorPlanName": "3-Bedroom",
+					"checked": false,
+					"floorPlanImages": [
+						"/10023/floorplans/3b/3b-1",
+						"/10023/floorplans/3b/3b-2",
+						"/10023/floorplans/3b/3b-3"
+					]
+				}
+			]
+		},
+		"mapContent": {
+			"alternateHeading": "LOCATION",
+			"location": "?q=place_id:ChIJ69Y4TTFPXj4RhWgPXwmZA1A&zoom=13&key="
+		}
+	}
 }
