@@ -184,9 +184,9 @@
 				"propertyBrand": "",
 				"landingPageImages": [
 					"/10022/exterior/exterior-6",
-					"/10022/interior/interior-4",
-					"/10022/interior/interior-2",
-					"/10022/interior/interior-5"
+					"/10022/exterior/exterior-5",
+					"/10022/exterior/exterior-4",
+					"/10022/exterior/exterior-4"
 				]
 			},
 			"gallery": {
@@ -195,7 +195,7 @@
 					"exteriorImages": [
 						"/10022/exterior/exterior-1",
 						"/10022/exterior/exterior-2",
-						"/10022/exterior/exterior-3",
+						"/10022/exterior/exterior-4",
 						"/10022/exterior/exterior-4",
 						"/10022/exterior/exterior-5",
 						"/10022/exterior/exterior-6"
