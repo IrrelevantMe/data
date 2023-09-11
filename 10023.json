@@ -177,7 +177,35 @@
 						"amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
 					}
 				]
-			}
+			},
+			"table":{
+				"headers": [
+				  "UNIT TYPE",
+				  "GARDENIA BAY",
+				  "ROI (USD)",
+				  "%"
+				],
+				"rows": [
+				  {
+					"UNIT TYPE": "STUDIO",
+					"GARDENIA BAY": "USD 219,166",
+					"ROI (USD)": "USD 19,725",
+					"%": "9%"
+				  },
+				  {
+					"UNIT TYPE": "1-BEDROOM",
+					"GARDENIA BAY": "USD 300,000",
+					"ROI (USD)": "USD 25,000",
+					"%": "8.33%"
+				  },
+				  {
+					"UNIT TYPE": "2-BEDROOM",
+					"GARDENIA BAY": "USD 450,000",
+					"ROI (USD)": "USD 40,000",
+					"%": "8.89%"
+				  }
+				]
+			  }			  
 		},
 		"galleryContent": {
 			"aboutImage": "/10023/about",
