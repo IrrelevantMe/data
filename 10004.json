@@ -170,7 +170,7 @@
 					{
 						"paymentPlanId": "paymentPlan3",
 						"paymentPlanName": "70/30",
-						"checked": true,
+						"checked": false,
 						"installments": [
 							{
 								"amount": "10 %",
