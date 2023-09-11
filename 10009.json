@@ -1,5 +1,370 @@
 {
-  "loading": true,
-  "propertyId": "10009", 
-  "propertyName": "Diva"
+	"loading": false,
+	"propertyId": 10009,
+	"propertyName": "DIVA",
+	"licenseNumber": "202202221143",
+	"projectNumber": "PRJ-2023-01-Something",
+	"content": {
+		"textContent": {
+			"tagLine": "Spacious units varying from studios to 3-bedroom Apartments",
+			"tagLine2": "",
+			"propertyLabel": "DIVA",
+			"aboutBlocks": [
+				{
+					"aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+					"aboutBlockValue": "For All",
+					"aboutBlockKey": "Nationalities"
+				},
+				{
+					"aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+					"aboutBlockValue": "AED 805,000",
+					"aboutBlockKey": "Starting Price"
+				},
+				{
+					"aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+					"aboutBlockValue": "471.78 sq. ft",
+					"aboutBlockKey": "Starting Area"
+				},
+				{
+					"aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+					"aboutBlockValue": "5 %",
+					"aboutBlockKey": "Downpayment"
+				},
+				{
+					"aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+					"aboutBlockValue": "Q2 - 2027",
+					"aboutBlockKey": "Handover"
+				},
+				{
+					"aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+					"aboutBlockValue": "Yas Island",
+					"aboutBlockKey": "Location"
+				}
+			],
+			"about": {
+				"alternateHeading": "ABOUT",
+				"aboutContent": [
+					{
+						"type": "para",
+						"body": [
+							"Diva is a new residential project by Reportage Properties located on Yas Island in Abu Dhabi. The new waterfront development is set to be handed over in the 3rd quarter of 2024. The fact that Diva is located on Yas Island ensures a wide range of possibilities in terms of work, entertainment, and leisure for its residents."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Right at the waterfront where the turquoise water shimmers, lies Perla 2 – East YAS, a masterpiece of elegance, modernity, and sophistication, to write the story of a magical island where not a single aspect of life is compromised. Perla 2 is one of two twin towers located at the two wings of YAS Bay, serving one purpose; bringing the best of YAS Island to a home of your dreams."
+						]
+					},
+					{
+						"type": "para",
+						"body": [
+							"Along with the many facilities embedded in each Diva unit, residents will be able to enjoy a wide range of amenities, including but not limited to:"
+						]
+					},
+					{
+						"type": "list",
+						"body": [
+							"Day-care center",
+							"Children's playground",
+							"Clean and neat lawns",
+							"Public gym",
+							"Public swimming pool",
+							"24-hour security, including CCTV",
+							"Cable and satellite TV",
+							"Broadband Internet"
+						]
+						
+					}
+				]
+			},
+			"pricing": {
+				"alternateHeading": "PAYMENT PLAN",
+				"paymentPlan": [
+					{
+						"paymentPlanId": "paymentPlan1",
+						"paymentPlanName": "40/40/20",
+						"checked": true,
+						"installments": [
+							{
+								"amount": "5 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "5 %",
+								"milestone": "",
+								"dueDate": "Apr-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Oct-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Apr-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Oct-24"
+							},
+							{
+								"amount": "40 %",
+								"milestone": "Completion",
+								"dueDate": "Mar-25"
+							},
+							{
+								"amount": "2.5 %",
+								"milestone": "every quarter",
+								"dueDate": "Mar 26"
+							},
+							{
+								"amount": "2.5 %",
+								"milestone": "every quarter",
+								"dueDate": "Mar 27"
+							}
+						]
+					},
+					{
+						"paymentPlanId": "paymentPlan2",
+						"paymentPlanName": "50/50",
+						"checked": false,
+						"installments": [
+							{
+								"amount": "5 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "5 %",
+								"milestone": "",
+								"dueDate": "Dec-22"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Apr-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Oct-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Apr-24"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Oct-24"
+							},
+							{
+								"amount": "50 %",
+								"milestone": "Completion",
+								"dueDate": "Mar-25"
+							}
+						]
+					},
+					{
+						"paymentPlanId": "paymentPlan3",
+						"paymentPlanName": "70/30",
+						"checked": false,
+						"installments": [
+							{
+								"amount": "10 %",
+								"milestone": "Upon Signing of SPA",
+								"dueDate": "TBD"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Apr-23"
+							},
+							{
+								"amount": "10 %",
+								"milestone": "",
+								"dueDate": "Oct-23"
+							},
+							{
+								"amount": "20 %",
+								"milestone": "",
+								"dueDate": "Apr-24"
+							},
+							{
+								"amount": "20 %",
+								"milestone": "",
+								"dueDate": "Oct-24"
+							},
+							{
+								"amount": "30 %",
+								"milestone": "Completion",
+								"dueDate": "Mar-25"
+							}
+						]
+					}
+				]
+			},
+			"faqs": {
+				"alternateHeading": "FAQs",
+				"faqContent": [
+					{
+						"ques": "What is the completion date for Gardenia Bay?",
+						"ans": "The completion date for Gardenia Bay Jun 2027"
+					},
+					{
+						"ques": "What is the minimum and maximum property size in Gardenia Bay?",
+						"ans": "The property size in Gardenia Bay 473612 - 1937 Sq. ft"
+					},
+					{
+						"ques": "Which beaches are near to Gardenia Bay?",
+						"ans": "Al Raha Beach (4.15 km), Yas Beach (4.42 km)"
+					},
+					{
+						"ques": "What are the appliances included with Units?",
+						"ans": "Cooker & range hood, Fridge, Dishwasher, AC Chilled water system with fan coil units"
+					}
+				]
+			},
+			"amenities": {
+				"alternateHeading": "Feature & Amenities",
+				"amenitiesContent": [
+					{
+						"amenityLabel": "MOSQUE",
+						"amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "SCHOOL",
+						"amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "COMMUNITY RETAIL",
+						"amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "KIDS PLAY AREA",
+						"amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "OPEN GREEN SPACES",
+						"amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
+					},
+					{
+						"amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+						"amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
+					}
+				]
+			}
+		},
+		"galleryContent": {
+			"aboutImage": "/10009/about",
+			"landingPageGallery": {
+				"propertyBrand": "/10009/propertyBrand",
+				"landingPageImages": [
+					"/10009/exterior/exterior-2",
+					"/10009/exterior/exterior-7",
+					"/10009/exterior/exterior-1",
+					"/10009/exterior/exterior-5"
+				]
+			},
+			"gallery": {
+				"alternateHeading": "GALLERY",
+				"exterior": {
+					"exteriorImages": [
+						"/10009/exterior/exterior-1",
+						"/10009/exterior/exterior-2",
+						"/10009/exterior/exterior-3",
+						"/10009/exterior/exterior-4",
+						"/10009/exterior/exterior-5",
+						"/10009/exterior/exterior-6",
+						"/10009/exterior/exterior-7",
+						"/10009/exterior/exterior-8",
+						"/10009/exterior/exterior-9"
+					]
+				},
+				"interior": {
+					"interiorImages": [
+						"/10009/interior/interior-1",
+						"/10009/interior/interior-3",
+						"/10009/interior/interior-4",
+						"/10009/interior/interior-5",
+						"/10009/interior/interior-6"
+					]
+				}
+			},
+			"floorPlans": {
+				"alternateHeading": "FLOOR PLAN",
+				"floorPlan": [
+					{
+						"floorPlanId": "floorPlan1",
+						"floorPlanName": "Studio",
+						"checked": true,
+						"floorPlanImages": [
+							"/10009/floorplans/studio/studio-1",
+							"/10009/floorplans/studio/studio-2",
+							"/10009/floorplans/studio/studio-3",
+							"/10009/floorplans/studio/studio-4",
+							"/10009/floorplans/studio/studio-5",
+							"/10009/floorplans/studio/studio-6"
+						]
+					},
+					{
+						"floorPlanId": "floorPlan2",
+						"floorPlanName": "1-Bedroom",
+						"checked": false,
+						"floorPlanImages": [
+							"/10009/floorplans/1b/1b-1",
+							"/10009/floorplans/1b/1b-2",
+							"/10009/floorplans/1b/1b-3",
+							"/10009/floorplans/1b/1b-4",
+							"/10009/floorplans/1b/1b-5",
+							"/10009/floorplans/1b/1b-6",
+							"/10009/floorplans/1b/1b-7",
+							"/10009/floorplans/1b/1b-8",
+							"/10009/floorplans/1b/1b-9",
+							"/10009/floorplans/1b/1b-10",
+							"/10009/floorplans/1b/1b-11",
+							"/10009/floorplans/1b/1b-12"
+						]
+					},
+					{
+						"floorPlanId": "floorPlan3",
+						"floorPlanName": "2-Bedroom",
+						"checked": false,
+						"floorPlanImages": [
+							"/10009/floorplans/2b/2b-1",
+							"/10009/floorplans/2b/2b-2",
+							"/10009/floorplans/2b/2b-3",
+							"/10009/floorplans/2b/2b-4",
+							"/10009/floorplans/2b/2b-5",
+							"/10009/floorplans/2b/2b-6",
+							"/10009/floorplans/2b/2b-7",
+							"/10009/floorplans/2b/2b-8",
+							"/10009/floorplans/2b/2b-9",
+							"/10009/floorplans/2b/2b-10",
+							"/10009/floorplans/2b/2b-11"
+						]
+					},
+					{
+						"floorPlanId": "floorPlan4",
+						"floorPlanName": "3-Bedroom",
+						"checked": false,
+						"floorPlanImages": [
+							"/10009/floorplans/3b/3b-1",
+							"/10009/floorplans/3b/3b-2",
+							"/10009/floorplans/3b/3b-3"
+						]
+					}
+				]
+			}
+		},
+		"mapContent": {
+			"alternateHeading": "LOCATION",
+			"location": "?q=place_id:ChIJ2b2ODylFXj4RunpYdx1451U&zoom=13&key="
+		}
+	}
 }
