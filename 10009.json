@@ -364,7 +364,7 @@
 		},
 		"mapContent": {
 			"alternateHeading": "LOCATION",
-			"location": "?q=place_id:ChIJ2b2ODylFXj4RunpYdx1451U&zoom=13&key="
+			"location": "?q=place_id:ChIJ2b2ODylFXj4RunpYdx1451U&zoom=12.5&key="
 		}
 	}
 }
