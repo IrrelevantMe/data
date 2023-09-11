@@ -260,7 +260,7 @@
 		"galleryContent": {
 			"aboutImage": "/10004/about",
 			"landingPageGallery": {
-				"propertyBrand": "",
+				"propertyBrand": "/10004/propertyBrand",
 				"landingPageImages": [
 					"/10004/exterior/exterior-3",
 					"/10004/exterior/exterior-4",
