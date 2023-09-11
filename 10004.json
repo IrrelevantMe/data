@@ -128,7 +128,7 @@
 					{
 						"paymentPlanId": "paymentPlan2",
 						"paymentPlanName": "50/50",
-						"checked": true,
+						"checked": false,
 						"installments": [
 							{
 								"amount": "5 %",
