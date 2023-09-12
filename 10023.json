@@ -194,16 +194,22 @@
 					"%": "9%"
 				  },
 				  {
-					"UNIT TYPE": "1-BEDROOM",
-					"GARDENIA BAY": "USD 300,000",
-					"ROI (USD)": "USD 25,000",
-					"%": "8.33%"
+					"UNIT TYPE": "1-BR",
+					"GARDENIA BAY": "USD 369,452",
+					"ROI (USD)": "USD 36,206",
+					"%": "9.8%"
 				  },
 				  {
-					"UNIT TYPE": "2-BEDROOM",
-					"GARDENIA BAY": "USD 450,000",
-					"ROI (USD)": "USD 40,000",
-					"%": "8.89%"
+					"UNIT TYPE": "2-BR",
+					"GARDENIA BAY": "USD 565,205",
+					"ROI (USD)": "USD 59,346",
+					"%": "10.5%"
+				  },
+					{
+					"UNIT TYPE": "3-BR",
+					"GARDENIA BAY": "USD 844,813",
+					"ROI (USD)": "USD 97,153",
+					"%": "11.5%"
 				  }
 				]
 			  }			  
