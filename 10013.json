@@ -251,7 +251,7 @@
 					{
 						"floorPlanId": "floorPlan1",
 						"floorPlanName": "1-Bedroom",
-						"checked": false,
+						"checked": true,
 						"floorPlanImages": [
 							"/10013/floorplans/1b/1b-1",
 							"/10013/floorplans/1b/1b-2"
