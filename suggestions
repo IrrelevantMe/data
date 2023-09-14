@@ -1,3 +1,87 @@
 {
-
+	"suggestions": [{
+			"propertyName": "Al Reeman II",
+			"propertyDescription": "The premium residents who want to live a life of possibility, one in which they are never without joy and positive energy may consider purchasing one of these homes with a bespoke design.",
+			"imageUrl": "/10017/about",
+			"propertyPageUrl": "#/property/10017/Fay%20Al%20Reeman%20II"
+		},
+		{
+			"propertyName": "Sustainable City",
+			"propertyDescription": "The Sustainable City Yas Island by Aldar Properties is a new residential advancement offering 1, 2 & 3 bedroom condos and 3-4 bedroom townhouses within Abu Dhabi. With the aim of offering a concept where ' you live life as it should be '.",
+			"imageUrl": "/10006/about",
+			"propertyPageUrl": "#/property/10006/Sustainable%20City"
+		},
+		{
+			"propertyName": "Yas Park Views",
+			"propertyDescription": "Yas Park Views is a residential development with three–five standalone bedroom villas. The beautifully crafted 2-storey residences will boast a Mediterranean-inspired facade.",
+			"imageUrl": "/10003/about",
+			"propertyPageUrl": "#/property/10003/Yas%20Park%20Views"
+		},
+		{
+			"propertyName": "Sea La Vie",
+			"propertyDescription": "9Yards Developments presented its first ever residential development in the form of Sea La Vie, which is located in Yas Bay on Yas Island.",
+			"imageUrl": "/10007/about",
+			"propertyPageUrl": "#/property/10007/Sea%20La%20Vie"
+		},
+		{
+			"propertyName": "Gardenia Bay",
+			"propertyDescription": "Embrace a life of serenity and green canal-side living with Gardenia Bay, Aldar's latest residential gem on Yas Island with studios to 3 bedroom apartments.",
+			"imageUrl": "/10023/about",
+			"propertyPageUrl": "#/property/10023/Gardenia%20Bay"
+		},
+		{
+			"propertyName": "Bloom Living - Casares",
+			"propertyDescription": "Casares boasting stylish and spacious townhouses in an all-inclusive and safe gated community. Casares features a Community Center surrounded by lush greenery and stunning landscaping.",
+			"imageUrl": "/10022/about",
+			"propertyPageUrl": "#/property/10022/Bloom%20Living%20Casares"
+		},
+		{
+			"propertyName": "Bloom Living - Toledo",
+			"propertyDescription": "Bloom Living is proud to offer this beautiful villa located in the popular Abu Dhabi neighborhood. This villa has been completely refurbished with modern finishes, high-quality building materials, and fixtures.",
+			"imageUrl": "/10001/about",
+			"propertyPageUrl": "#/property/10001/Bloom%20Living%20Toledo"
+		},
+		{
+			"propertyName": "Saadiyat Grove Museums",
+			"propertyDescription": "Saadiyat Grove the new multifunctional complex by the master developer Aldar Properties is set to become a mixed-use community in the heart of the beautiful Cultural District on Saadiyat Island.",
+			"imageUrl": "/10012/about",
+			"propertyPageUrl": "#/property/10012/Saadiyat%20Grove%20Residences"
+		},
+		{
+			"propertyName": "Yas Park Gate",
+			"propertyDescription": "Yas Park Gate comes as the second phase of Yas North and features 508 Mediterranean-inspired homes for purchase.",
+			"imageUrl": "/10004/about",
+			"propertyPageUrl": "#/property/10004/Yas%20Park%20Gate"
+		},
+		{
+			"propertyName": "Yas Golf Collections",
+			"propertyDescription": "Overlooking the iconic Yas Links Golf Course and Abu Dhabi’s beautiful mangroves, Yas Golf Collection is a resort-style community by Aldar Properties, located on Yas Island.",
+			"imageUrl": "/10005/about",
+			"propertyPageUrl": "#/property/10005/Yas%20Golf%20Collections"
+		},
+        {
+			"propertyName": "Perla",
+			"propertyDescription": "Magic can still happen on a not-far-away island. Perla 1 – West YAS, one of the two twin towers located on both wings of YAS Bay, offers you limitless inspiration and a wide horizon of opportunities.",
+			"imageUrl": "/10008/about",
+			"propertyPageUrl": "#/property/10008/Perla"
+		},
+        {
+			"propertyName": "Diva",
+			"propertyDescription": "Right at the waterfront where the turquoise water shimmers, lies Diva, a masterpiece of elegance, modernity, and sophistication, to write the story of a magical island where not a single aspect of life is compromised.",
+			"imageUrl": "/10009/about",
+			"propertyPageUrl": "#/property/10009/Diva"
+		},
+        {
+			"propertyName": "The Gate",
+			"propertyDescription": "A new mid-rise residential building introduced by Reportage Properties in Abu Dhabi, offers an array of exceptional amenities. This project boasts a total of 463 luxury residential units, giving you the option to choose from studios, 1, 2, 3, and 4-bedroom apartments.",
+			"imageUrl": "/10021/about",
+			"propertyPageUrl": "#/property/10021/The%20Gate"
+		},
+        {
+			"propertyName": "Manarat Living",
+			"propertyDescription": "The Manarat Living project has secured a highly desirable location in the heart of Saadiyat Island, a thriving area poised to become the cultural hub of Abu Dhabi, featuring numerous art and historical facilities.",
+			"imageUrl": "/10013/about",
+			"propertyPageUrl": "#/property/10013/Manarat%20Living"
+		}
+	]
 }
