@@ -6,6 +6,7 @@
 	"projectNumber": "PRJ-2023-01-Something",
 	"content": {
 		"textContent": {
+			"isSuggestionsPresent": false,
 			"tagLine": "The New Home Of Balanced Living on Yas Island",
 			"tagLine2": "Studio - 3 Bedroom Apartments",
 			"propertyLabel": "Gardenia Bay",
