@@ -219,6 +219,7 @@
 			"aboutImage": "/10023/about",
 			"landingPageGallery": {
 				"propertyBrand": "/10023/propertyBrand",
+				"builderBrand": "/aldar/builderBrand",
 				"landingPageImages": [
 					"/10023/exterior/exterior-2",
 					"/10023/interior/interior-4",
