@@ -217,6 +217,7 @@
 		},
 		"galleryContent": {
 			"aboutImage": "/10023/about",
+			"whyInvest":"/whyInvest",
 			"landingPageGallery": {
 				"propertyBrand": "/10023/propertyBrand",
 				"builderBrand": "/aldar/builderBrand",
