@@ -1,5 +1,361 @@
 {
-  "loading": true,
-  "propertyId": "10014", 
-  "propertyName": "Reem Hills Apartments"
+    "loading": false,
+    "propertyId": 10014,
+    "propertyName": "Reem-Hills-Apartments",
+    "licenseNumber": "202202221143",
+    "projectNumber": "PRJ-2023-01-Something",
+    "content": {
+        "textContent": {
+            "isSuggestionsPresent": false,
+            "tagLine": "The New Home Of Balanced Living on Yas Island",
+            "tagLine2": "Studio - 3 Bedroom Apartments",
+            "propertyLabel": "Reem Hills Apartments",
+            "propertyLabel2": "Apartments for Sale",
+            "aboutBlocks": [
+                {
+                    "aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+                    "aboutBlockValue": "For All",
+                    "aboutBlockKey": "Nationalities"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+                    "aboutBlockValue": "AED 805,000",
+                    "aboutBlockKey": "Starting Price"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+                    "aboutBlockValue": "471.78 sq. ft",
+                    "aboutBlockKey": "Starting Area"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+                    "aboutBlockValue": "5 %",
+                    "aboutBlockKey": "Downpayment"
+                },
+                {
+                    "aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+                    "aboutBlockValue": "Q2 - 2027",
+                    "aboutBlockKey": "Handover"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+                    "aboutBlockValue": "Yas Island",
+                    "aboutBlockKey": "Location"
+                }
+            ],
+            "about": {
+                "alternateHeading": "ABOUT",
+                "aboutContent": [
+                    {
+                        "type": "para",
+                        "body": [
+                            "Reem Hills is a huge mixed-use residential development on Al Reem Island by Q Properties which is a subsidiary of Q Holding. Overlooking man-made hills and beautiful beaches, this gated community will feature a range of villas, townhouses and apartments. The project features 5 clusters, called Coast Way, Park Valley, North Bay, Garden Homes and Beach Bay, which will house a total of 593 residential units."
+                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "The first phases of the development were launched in 2022, and offers three-bedroom townhouses, four-bedroom twin villas and 4–7 bedroom standalone villas. The total saleable area of the residences ranges from a compact 2,377 sq. ft to a very generous 17,435 sq. ft, whereas the minimum plot sizes are between 2,120 sq. ft–20,082 sq. ft. The premium properties have two design types called Minimal and Chic, and will be equipped with everything necessary for a comfortable living environment."
+                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "Depending on the layouts, villas and townhouses may include a family lounge, a study room, a chef's kitchen, a maid's room, a driver's room and plenty of storage space. Residents will be able to rest on their own private roof terraces and balconies that offer magnificent views of the surroundings, while outdoor gardens and bbq areas will provide a shaded and relaxing place to spend a day in the fresh air. The properties will also feature a swimming pool and parking for 2–6 cars."
+                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "The latest addition to the project was announced in 2023 and includes 1–3 bedroom apartments with living areas of up to 2,570 sq. ft. The bedrooms of the residences are complemented by en-suite bathrooms and the master bedroom has a walk-in closet. Apartments have spacious balconies or terraces for owners to relax and enjoy the views of the surrounding area, and the layouts provide plenty of storage space and a separate laundry room. Each property type comes with an additional maid’s room, and three-bedroom apartments have an area that can be converted into a study or a lounge."
+                        ]
+                    },
+                    {
+                        "type": "list",
+                        "body": [
+                            "Gardens",
+                            "Swimming pools",
+                            "Green pathways",
+                            "Play area",
+                            "Dog park",
+                            "Community center"
+                        ]
+                    }
+                ]
+            },
+            "pricing": {
+                "alternateHeading": "PAYMENT PLAN",
+                "paymentPlan": [
+                    {
+                        "paymentPlanId": "paymentPlan1",
+                        "paymentPlanName": "40/60",
+                        "checked": true,
+                        "installments": [
+                            {
+                                "amount": "5 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Construction Start",
+                                "dueDate": "31-May-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Substructure completion 50%",
+                                "dueDate": "31-Dec-23"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Super structure completion 50%",
+                                "dueDate": "31-July-24"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Super structure completion 100%",
+                                "dueDate": "28-Feb-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Façade Completion 100%",
+                                "dueDate": "30-Sept-25"
+                            },
+                            {
+                                "amount": "40 %",
+                                "milestone": "On Handover",
+                                "dueDate": "31-May-26"
+                            }
+                        ]
+                    },
+                    {
+                        "paymentPlanId": "paymentPlan2",
+                        "paymentPlanName": "50/50",
+                        "checked": false,
+                        "installments": [
+                            {
+                                "amount": "5 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Contractor Appointment",
+                                "dueDate": "31-Mar-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Piling works completion",
+                                "dueDate": "30-Nov-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "super structure completion 50%",
+                                "dueDate": "30-Jun-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Villa super structure completion 100%",
+                                "dueDate": "31-Jan-26"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Façade completion",
+                                "dueDate": "31-Oct-26"
+                            },
+                            {
+                                "amount": "50 %",
+                                "milestone": "On Handover",
+                                "dueDate": "30-Jun-27"
+                            }
+                        ]
+                    },
+                    {
+                        "paymentPlanId": "paymentPlan3",
+                        "paymentPlanName": "60/40",
+                        "checked": false,
+                        "installments": [
+                            {
+                                "amount": "10 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Construction Start",
+                                "dueDate": "31-May-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Substructure completion 50%",
+                                "dueDate": "31-Dec-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Super structure completion 50%",
+                                "dueDate": "31-July-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Super structure completion 100%",
+                                "dueDate": "28-Feb-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Façade Completion 100%",
+                                "dueDate": "30-Sept-25"
+                            },
+                            {
+                                "amount": "40 %",
+                                "milestone": "On Handover",
+                                "dueDate": "31-May-26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "faqs": {
+                "alternateHeading": "FAQs",
+                "faqContent": [
+                    {
+                        "ques": "What is the total area (sqm) ofthe master plan?",
+                        "ans": "Approximately 2.4 Million sqm."
+                      },
+                      {
+                        "ques": "Are the units furnished?",
+                        "ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+                      },
+                      {
+                        "ques": "What would be the service charges and what is included?",
+                        "ans": "SC is estimated around AED 22/ per sqm."
+                      },
+                      {
+                        "ques": "How would the air-conditioning work? Is it centralized?",
+                        "ans": "Units will have DX Split AC."
+                      },
+                      {
+                        "ques": "Can I choose the type of finishing of my unit?",
+                        "ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+                      }
+                ]
+            },
+            "amenities": {
+                "alternateHeading": "Feature & Amenities",
+                "amenitiesContent": [
+                    {
+                        "amenityLabel": "MOSQUE",
+                        "amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "SCHOOL",
+                        "amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "COMMUNITY RETAIL",
+                        "amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "KIDS PLAY AREA",
+                        "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "OPEN GREEN SPACES",
+                        "amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+                        "amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
+                    }
+                ]
+            },
+            "table": null
+        },
+        "galleryContent": {
+            "aboutImage": "/10014/about",
+            "whyInvest": "/whyInvest",
+            "landingPageGallery": {
+                "propertyBrand": "/10014/propertyBrand",
+                "builderBrand": null,
+                "landingPageImages": [
+                    "/10014/exterior/exterior-1",
+                    "/10014/exterior/exterior-2",
+                    "/10014/exterior/exterior-5",
+                    "/10014/exterior/interior-2"
+                ]
+            },
+            "gallery": {
+                "alternateHeading": "GALLERY",
+                "exterior": {
+                    "exteriorImages": [
+                        "/10014/exterior/exterior-1",
+                        "/10014/exterior/exterior-2",
+                        "/10014/exterior/exterior-3",
+                        "/10014/exterior/exterior-4",
+                        "/10014/exterior/exterior-5"
+                    ]
+                },
+                "interior": {
+                    "interiorImages": [
+                        "/10014/interior/interior-1",
+                        "/10014/interior/interior-2",
+                        "/10014/interior/interior-3",
+                        "/10014/interior/interior-4",
+                        "/10014/interior/interior-5",
+                        "/10014/interior/interior-6"
+                    ]
+                }
+            },
+            "floorPlans": {
+                "alternateHeading": "FLOOR PLAN",
+                "floorPlan": [
+                    {
+                        "floorPlanId": "floorPlan2",
+                        "floorPlanName": "1-Bedroom",
+                        "checked": true,
+                        "floorPlanImages": [
+                            "/10014/floorplans/1b/1b-1",
+                            "/10014/floorplans/1b/1b-2",
+                            "/10014/floorplans/1b/1b-3",
+                            "/10014/floorplans/1b/1b-4"
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan3",
+                        "floorPlanName": "2-Bedroom",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10014/floorplans/2b/2b-1",
+                            "/10014/floorplans/2b/2b-2",
+                            "/10014/floorplans/2b/2b-3",
+                            "/10014/floorplans/2b/2b-4"
+
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan4",
+                        "floorPlanName": "3-Bedroom",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10014/floorplans/3b/3b-1",
+                            "/10014/floorplans/3b/3b-2",
+                            "/10014/floorplans/3b/3b-3"
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan9",
+                        "floorPlanName": "Townhouse",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10014/floorplans/townhouse/townhouse-1",
+                            "/10014/floorplans/townhouse/townhouse-2"
+                        ]
+                    }
+                ]
+            }
+        },
+        "mapContent": {
+            "alternateHeading": "LOCATION",
+            "location": "?q=place_id:ChIJnbh84-hnXj4RWGs_-EX_zQY&zoom=13&key="
+        }
+    }
 }
