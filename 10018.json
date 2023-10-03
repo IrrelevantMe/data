@@ -1,5 +1,346 @@
 {
-  "loading": true,
-  "propertyId": "10018", 
-  "propertyName": "Reeman Living"
+    "loading": false,
+    "propertyId": 10018,
+    "propertyName": "Reeman-Living",
+    "licenseNumber": "202202221143",
+    "projectNumber": "PRJ-2023-01-Something",
+    "content": {
+        "textContent": {
+            "isSuggestionsPresent": false,
+            "tagLine": "Reeman Living by Aldar Properties",
+            "tagLine2": "1–3 Bedroom Apartments",
+            "propertyLabel": "Reeman Living",
+            "propertyLabel2": "Apartments for Sale",
+            "aboutBlocks": [
+                {
+                    "aboutBlockIcon": "bi bi-flag font-size-24 d-block mb-1",
+                    "aboutBlockValue": "For All",
+                    "aboutBlockKey": "Nationalities"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-cash-coin font-size-24 d-block mb-1",
+                    "aboutBlockValue": "AED 805,000",
+                    "aboutBlockKey": "Starting Price"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-map font-size-24 d-block mb-1",
+                    "aboutBlockValue": "471.78 sq. ft",
+                    "aboutBlockKey": "Starting Area"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-credit-card font-size-24 d-block mb-1",
+                    "aboutBlockValue": "5 %",
+                    "aboutBlockKey": "Downpayment"
+                },
+                {
+                    "aboutBlockIcon": "fa-regular fa-handshake font-size-24 d-block mb-1",
+                    "aboutBlockValue": "Q2 - 2027",
+                    "aboutBlockKey": "Handover"
+                },
+                {
+                    "aboutBlockIcon": "bi bi-geo-alt font-size-24 d-block mb-1",
+                    "aboutBlockValue": "Yas Island",
+                    "aboutBlockKey": "Location"
+                }
+            ],
+            "about": {
+                "alternateHeading": "ABOUT",
+                "aboutContent": [
+                    {
+                        "type": "para",
+                        "body": [
+                            "Launched in Q1 2023, Reeman Living is the second release in the 'Living' collection by Aldar Properties, which offers design-led urban living across upscale areas of the capital."                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "The complex, located in Alreeman, Al Shamkha will feature a total of 1,050 units, while its first phase offers 630 properties for acquisition."                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "Prospective property buyers can choose from a selection of studios and 1–3 bedroom apartments spread across 5 low-rise buildings."                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "In line with Aldar Properties sustainability targets, the buildings in Reeman Living will have a sustainable and eco-friendly design, such as green building technologies and efficient fixtures to save water energy."                        ]
+                    },
+                    {
+                        "type": "para",
+                        "body": [
+                            "The property sizes in the development range from 280 sq. ft to 1,076 sq. ft. Owners of 2-3 bedroom apartments will be able to take advantage of a balcony, which will overlook the luscious leafy surroundings."                ]    
+                    }
+                ]
+            },
+            "pricing": {
+                "alternateHeading": "PAYMENT PLAN",
+                "paymentPlan": [
+                    {
+                        "paymentPlanId": "paymentPlan1",
+                        "paymentPlanName": "40/60",
+                        "checked": true,
+                        "installments": [
+                            {
+                                "amount": "5 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Construction Start",
+                                "dueDate": "31-May-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Substructure completion 50%",
+                                "dueDate": "31-Dec-23"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Super structure completion 50%",
+                                "dueDate": "31-July-24"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Super structure completion 100%",
+                                "dueDate": "28-Feb-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Façade Completion 100%",
+                                "dueDate": "30-Sept-25"
+                            },
+                            {
+                                "amount": "40 %",
+                                "milestone": "On Handover",
+                                "dueDate": "31-May-26"
+                            }
+                        ]
+                    },
+                    {
+                        "paymentPlanId": "paymentPlan2",
+                        "paymentPlanName": "50/50",
+                        "checked": false,
+                        "installments": [
+                            {
+                                "amount": "5 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Contractor Appointment",
+                                "dueDate": "31-Mar-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Piling works completion",
+                                "dueDate": "30-Nov-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "super structure completion 50%",
+                                "dueDate": "30-Jun-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Villa super structure completion 100%",
+                                "dueDate": "31-Jan-26"
+                            },
+                            {
+                                "amount": "5 %",
+                                "milestone": "Façade completion",
+                                "dueDate": "31-Oct-26"
+                            },
+                            {
+                                "amount": "50 %",
+                                "milestone": "On Handover",
+                                "dueDate": "30-Jun-27"
+                            }
+                        ]
+                    },
+                    {
+                        "paymentPlanId": "paymentPlan3",
+                        "paymentPlanName": "60/40",
+                        "checked": false,
+                        "installments": [
+                            {
+                                "amount": "10 %",
+                                "milestone": "Upon Signing of SPA",
+                                "dueDate": "TBD"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Construction Start",
+                                "dueDate": "31-May-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Substructure completion 50%",
+                                "dueDate": "31-Dec-23"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Super structure completion 50%",
+                                "dueDate": "31-July-24"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Super structure completion 100%",
+                                "dueDate": "28-Feb-25"
+                            },
+                            {
+                                "amount": "10 %",
+                                "milestone": "Façade Completion 100%",
+                                "dueDate": "30-Sept-25"
+                            },
+                            {
+                                "amount": "40 %",
+                                "milestone": "On Handover",
+                                "dueDate": "31-May-26"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "faqs": {
+                "alternateHeading": "FAQs",
+                "faqContent": [
+                    {
+                        "ques": "What is the total area (sqm) ofthe master plan?",
+                        "ans": "Approximately 2.4 Million sqm."
+                      },
+                      {
+                        "ques": "Are the units furnished?",
+                        "ans": "The customer has the option to go for a premium selection which includes kitchen and laundry appliances."
+                      },
+                      {
+                        "ques": "What would be the service charges and what is included?",
+                        "ans": "SC is estimated around AED 22/ per sqm."
+                      },
+                      {
+                        "ques": "How would the air-conditioning work? Is it centralized?",
+                        "ans": "Units will have DX Split AC."
+                      },
+                      {
+                        "ques": "Can I choose the type of finishing of my unit?",
+                        "ans": "Yes,the customer hasthe option to choose between either a light or dark finishing option. And whether they wish to upgrade to premium finishes."
+                      }
+                ]
+            },
+            "amenities": {
+                "alternateHeading": "Feature & Amenities",
+                "amenitiesContent": [
+                    {
+                        "amenityLabel": "MOSQUE",
+                        "amenityIcon": "fa-solid fa-mosque fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "SCHOOL",
+                        "amenityIcon": "fa-solid fa-graduation-cap fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "COMMUNITY RETAIL",
+                        "amenityIcon": "fa-solid fa-cart-plus fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "KIDS PLAY AREA",
+                        "amenityIcon": "fa-solid fa-volleyball fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "OPEN GREEN SPACES",
+                        "amenityIcon": "fa-solid fa-tree fa-2xl me-3 amenities"
+                    },
+                    {
+                        "amenityLabel": "PEDESTRIAN AND CYCLE NETWORK",
+                        "amenityIcon": "fa-solid fa-person-biking fa-2xl me-3 amenities"
+                    }
+                ]
+            },
+            "table": null
+        },
+        "galleryContent": {
+            "aboutImage": "/10018/interior/interior-4",
+            "whyInvest": "/whyInvest",
+            "landingPageGallery": {
+                "propertyBrand": "/10018/propertyBrand",
+                "builderBrand": "/aldar/builderBrand",
+                "landingPageImages": [
+                    "/10018/interior/interior-1",
+                        "/10018/interior/interior-2",
+                        "/10018/interior/interior-3",
+                        "/10018/interior/interior-4"
+                ]
+            },
+            "gallery": {
+                "alternateHeading": "GALLERY",
+                "exterior": {
+                    "exteriorImages": [
+                    ]
+                },
+                "interior": {
+                    "interiorImages": [
+                        "/10018/interior/interior-1",
+                        "/10018/interior/interior-2",
+                        "/10018/interior/interior-3",
+                        "/10018/interior/interior-4",
+                        "/10018/interior/interior-5",
+                        "/10018/interior/interior-6"
+                    ]
+                }
+            },
+            "floorPlans": {
+                "alternateHeading": "FLOOR PLAN",
+                "floorPlan": [
+                    
+                    {
+                        "floorPlanId": "floorPlan2",
+                        "floorPlanName": "1-Bedroom",
+                        "checked": true,
+                        "floorPlanImages": [
+                            "/10018/floorplans/1b/1b-1",
+                            "/10018/floorplans/1b/1b-2",
+                            "/10018/floorplans/1b/1b-3",
+                            "/10018/floorplans/1b/1b-4"
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan3",
+                        "floorPlanName": "2-Bedroom",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10018/floorplans/2b/2b-1",
+                            "/10018/floorplans/2b/2b-2",
+                            "/10018/floorplans/2b/2b-3",
+                            "/10018/floorplans/2b/2b-4"
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan4",
+                        "floorPlanName": "3-Bedroom",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10018/floorplans/3b/3b-1",
+                            "/10018/floorplans/3b/3b-2",
+                            "/10018/floorplans/3b/3b-3"
+                        ]
+                    },
+                    {
+                        "floorPlanId": "floorPlan9",
+                        "floorPlanName": "Townhouse",
+                        "checked": false,
+                        "floorPlanImages": [
+                            "/10018/floorplans/townhouse/townhouse-1",
+                            "/10018/floorplans/townhouse/townhouse-2"
+                        ]
+                    }
+                ]
+            }
+        },
+        "mapContent": {
+            "alternateHeading": "LOCATION",
+            "location": "?q=place_id:ChIJu0AU3_xJXj4RPgdDNp19edo&zoom=13&key="
+        }
+    }
 }
