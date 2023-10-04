@@ -254,7 +254,7 @@
             "aboutImage": "/10002/about",
             "whyInvest": "/whyInvest",
             "landingPageGallery": {
-                "propertyBrand": "/10002/propertyBrand",
+                "propertyBrand": "",
                 "builderBrand": "",
                 "landingPageImages": [
                     "/10002/exterior/exterior-6",
